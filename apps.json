@@ -5986,5 +5986,280 @@
             "English (United States)"
         ],
         "copyright": ""
+    },
+        {
+        "id": "428",
+        "name": "Dumb Ways to Die 2: The Games",
+        "publisher": "METRO TRAINS MELBOURNE",
+        "version": "1.1.0.0",
+        "description": "There??s a whole new set of dumb characters that have gathered to take part in a newer, bigger game.    Guide these characters through 52 action packed mini-games and try to stay alive long enough to get the highest score and unlock all your favourite characters.    Visit the multiplayer challenge arena and battle against your friends.    Pledge allegiance to your favourite Dumb Ways character and play for global domination on the team leaderboard.    Download the FREE game now and become the dumbest of the dumb. And remember, be safe around trains. A message from Metro.    New levels include:     Electric Fence Hurdles  Why are they electric? No idea, but you better jump them.    Don??t Block The Doorway  Don??t get in everyone??s way. Clear the doors!    Dynamite Relay Race  Don??t want the dynamite baton? Better pass it to the next person.    *Dolphin Rodeo  Yee-Haw! Stay on the Dolphin as long as you can.    Lighting Pole Vault  You probably don??t want to vault too high in this lighting.    Forcing The Doors  Lend a helping hand by removing the limbs from the doors.    Rocket Ski Jump  Strap on those rocket skis and try to land a wicked jump.    Landmine Curling  Sweep the landmine into the ice before it blows you up.    Javelin Catch  Javelin catching is dangerous. Maybe just try and avoid it.    *Dropping A Phone  Dropped your phone? Doesn??t matter. Stay off the tracks!      *To enjoy the full game experience, use a device that has an accelerometer and supports touch. Some games are not available on devices without these features.    *This game is designed for Windows 8. It has not been optimised for Windows 10.    ? Metro Trains Melbourne, Dumb Ways to Die?",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/DumbWaysToDie2/DumbWaysToDie2.Windows_1.1.0.0_x64.appx",
+        "iconUrl": "https://store-images.microsoft.com/image/apps.34599.13510798885875426.8b00b405-a2ce-49e4-aca0-8a1c01105e2c.04a46442-a627-489a-9bb3-a0b654e2db02?h=115",
+        "featured": false,
+        "type": "Game",
+        "category": "Action",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Dumb Ways to Die 2: The Games+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Dumb Ways to Die 2: The Games+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Dumb Ways to Die 2: The Games+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Dumb Ways to Die 2: The Games+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Dumb Ways to Die 2: The Games+Screenshot+5"
+        ],
+        "accentColor": "#89AF00",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/dumbwaystodie2thegameswide.png",
+        "architecture": "x64",
+        "packageFamilyName": "METROTRAINSMELBOURNE.DumbWaystoDie2TheGames",
+        "size": "23.3 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 METRO TRAINS MELBOURNE"
+    },
+    {
+        "id": "432",
+        "name": "Survivalcraft",
+        "publisher": "Candy Rufus Games",
+        "version": "1.29.47.0",
+        "description": "You are marooned on the shores of an infinite blocky world. Explore, mine resources, craft tools and weapons, build traps and grow plants. Dress up and hunt animals for food and resources. Build a shelter to survive the cold nights and share your worlds online. Driving a horse, camel or axle and a herd of cattle to protect them from predators. Blast your way through the rock. Build complex electrical devices. The possibilities are endless in this long-running series of sandbox survival and building games.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Survivalcraft/1.29.47.0/neutral/20961CandyRufusGames.Survivalcraft_1.29.47.0_neutral__c7jxg4av36ap6.appx",
+        "iconUrl": "https://i.ibb.co/JwtYYz4b/image.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Adventure",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Survivalcraft+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Survivalcraft+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Survivalcraft+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Survivalcraft+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Survivalcraft+Screenshot+5"
+        ],
+        "accentColor": "#3E3E2E",
+        "wideLogoUrl": "https://i.ibb.co/nN9ZNz04/Wide310x150-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "20961CandyRufusGames.Survivalcraft",
+        "size": "8.5 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Candy Rufus Games"
+    },
+    {
+        "id": "436",
+        "name": "Loco Music Player",
+        "publisher": "Sunbeam",
+        "version": "1.1.0.1",
+        "description": "Music player with many features and themes!",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Loco%20music%20player/1.1.0.11/x86/17371sunbeam.Locomusicplayer_1.1.0.11_x86__zdfp72fgz1csm.appx",
+        "iconUrl": "https://i.ibb.co/1tC11FqK/Store-Logo120x120.png",
+        "featured": false,
+        "type": "App",
+        "category": "Music + Audio",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Loco Music Player+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Loco Music Player+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Loco Music Player+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Loco Music Player+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Loco Music Player+Screenshot+5"
+        ],
+        "accentColor": "#323028",
+        "wideLogoUrl": "https://i.ibb.co/xK4YWhwZ/loco-music.png",
+        "architecture": "x86",
+        "packageFamilyName": "17371sunbeam.Locomusicplayer",
+        "size": "7.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Sunbeam"
+    },
+    {
+        "id": "437",
+        "name": "Video To Photo",
+        "publisher": "Mixilab",
+        "version": "12.16",
+        "description": "Take screenshots of your videos with precision!",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/VideoToPhoto/2016.1216.1337.0/neutral/24711Mixilab.VideoToPhoto_2016.1216.1337.0_neutral_~_c39s816dkej80.appxbundle",
+        "iconUrl": "https://i.ibb.co/TxnBykpT/Store-Logo-scale-240.png",
+        "featured": false,
+        "type": "App",
+        "category": "Photo + Design",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Video To Photo+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Video To Photo+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Video To Photo+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Video To Photo+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Video To Photo+Screenshot+5"
+        ],
+        "accentColor": "#464646",
+        "wideLogoUrl": "https://i.ibb.co/pr4vg2Cf/Wide-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.VideoToPhoto_8wekyb3d8bbwe",
+        "size": "9.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Mixilab"
+    },
+    {
+        "id": "438",
+        "name": "Modern File Explorer",
+        "publisher": "Paul Tallett",
+        "version": "2.0",
+        "description": "Modern file explorer packaged with a lot of features.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/Modern%20File%20Explorer/2015.822.2316.0/neutral/25538paul.tallett.TouchFile_2015.822.2316.0_neutral_~_vft0dbh482dyt.appxbundle",
+        "iconUrl": "https://i.ibb.co/sphjJYqf/Yellow-Theme-Logo.png",
+        "featured": false,
+        "type": "App",
+        "category": "Utilities",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Modern File Explorer+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Modern File Explorer+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Modern File Explorer+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Modern File Explorer+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Modern File Explorer+Screenshot+5"
+        ],
+        "accentColor": "#D9532C",
+        "wideLogoUrl": "https://i.ibb.co/RpXZK1bf/Wide-Logo.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.ModernFileExplorer_8wekyb3d8bbwe",
+        "size": "2.0 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Paul Tallett"
+    },
+    {
+        "id": "439",
+        "name": "Solitaire8",
+        "publisher": "Creating",
+        "version": "1.0.0.18",
+        "description": "A Different take on the classic solitaire game!",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Games/Solitaire8/3.5.8.0/neutral/3983JEFBCreating.Solitaire8_3.5.9.0_neutral_~_vy786dcgg6jz4.appxbundle",
+        "iconUrl": "https://i.ibb.co/bRqgmHhw/Logo.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Puzzle",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Solitaire8+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Solitaire8+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Solitaire8+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Solitaire8+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Solitaire8+Screenshot+5"
+        ],
+        "accentColor": "#DE00DE",
+        "wideLogoUrl": "https://i.ibb.co/r288y5kz/Wide310x150-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.Solitaire8_8wekyb3d8bbwe",
+        "size": "13.1 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Creating"
+    },
+    {
+        "id": "441",
+        "name": "Shuffle Party",
+        "publisher": "Microsoft Studios",
+        "version": "1.3.0.0",
+        "description": "Shuffle Party is back for Windows 8! Compete in various shuffleboard games using your Xbox Avatar! Featuring   Bowling, the standard bowling game played on a shuffleboard table; League Bowling, where players bowl in weekly   tournaments against other Xbox Live users; Challenge Mode, get the best score possible while faced with obstacles such as   bumpers, ramps, gates, and portals; Shuffleboard, the classic table game - try to get as close to the score zones without   falling off the table; and Pass & Play, a two-player version of shuffleboard where you and a friend take turns by passing   the device. Earn cash in all game modes to buy new Pro Shop items, such as pucks, pins, tables, and table frames! Earn   Xbox achievements, and get bragging rights when you earn the top spot on leaderboards.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Games/Shuffle%20Party/1.3.0.0/x86/Microsoft.ShuffleParty_1.3.0.0_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "https://i.ibb.co/Kj7Cq6cN/Logo150x150.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Strategy",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Shuffle Party+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Shuffle Party+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Shuffle Party+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Shuffle Party+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Shuffle Party+Screenshot+5"
+        ],
+        "accentColor": "#923A27",
+        "wideLogoUrl": "https://i.ibb.co/6755MyGN/Logo310x150.png",
+        "architecture": "x86",
+        "packageFamilyName": "Microsoft.ShuffleParty",
+        "size": "60.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Microsoft Studios"
+    },
+        {
+        "id": "1131",
+        "name": "UNO & Friends",
+        "publisher": "GAMELOFT SA",
+        "version": "1.9.2.1",
+        "description": "This game allows multiplayer play and is not subject to Xbox LIVE parental settings. Microsoft shares User IDs and gamertags. ?????????? UNO & Friends: Fast Fun for Everyone! UNO, the world's most beloved card game, introduces a brand-new free social experience! Playing UNO with friends, family, and millions of fans worldwide has never been easier! Join one of the largest free online mobile gaming communities and enjoy an all-new free multiplayer experience, competitive leaderboards and fun customization options that let you shout \"UNO!\" on a whole new level! GAME FEATURES: ??Easy to learn, difficult to put down! ??Create games and invite your friends to play! ??Challenge millions of UNO fans worldwide! ??Utilize Boosts & Super Boosts to diversify your strategy! ??See how your card skills rank on the leaderboards! ??Compete in weekly contests to win rewards! ??Customize your UNO game with backgrounds, card deck designs & special effects! ??Play online multiplayer matches over 3G or Wi-Fi! _____________________________________________ You can download and play this game for free. Please be informed that it also allows you to play using virtual currency, which can be acquired as you progress through the game, or by deciding to watch certain advertisements, or by paying with real money. In-app purchases range from ?1.49 to ?30.89. You can disable in-app purchases by adjusting your device??s settings. Languages: English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Traditional Chinese, Spanish, Turkish, Arabic, Indonesian. An additional download of 50 to 150 MB is required to play this game. Please note the size of this required download may change without notice. The game requires an Internet connection (3G or Wi-Fi) for download and updates, and other features including playing with friends, making in-app purchases and watching advertisements. Certain aspects of this game, such as collaborating with, playing against or sharing in-game items with other players will require the player to connect to a social network like Facebook. Please note this connection is never compulsory to progress through the game. These features may be disabled in certain countries. This game may contain third-party advertisements that will redirect you to a third-party site. You can disable your device??s ad identifier being used for interest-based advertising in the settings menu of your device. This option can be found in PC Settings -> Privacy -> General ______________________________________________ Visit our official site at http://www.gameloft.com Follow us on Twitter at http://glft.co/GameloftonTwitter or like us on Facebook at http://facebook.com/Gameloft to get more info about all our upcoming titles. Check out our videos and game trailers on http://www.youtube.com/Gameloft Discover our blog at http://glft.co/Gameloft_Official_Blog for the inside scoop on everything Gameloft. Privacy Policy: http://www.gameloft.co.uk/privacy-notice/ Terms of Use: http://www.gameloft.co.uk/conditions/ End-User License Agreement: http://www.gameloft.com/eula/?lang=en If you install this game, you understand and agree that Microsoft may share your User ID and gamertag with the game publisher to enable game features. This game includes multiplayer features with online interactions that are not subject to Xbox LIVE parental settings. These features may include the following interactions with other players online: ? Send and receive game invites; ? Play cooperatively or head-to-head; ? Send and receive in-game text messages; ? Communicate via in-game voice chat. Please see the publisher??s site http://www.gameloft.com/privacy-notice/windows/ for information on settings it may enable.",
+        "downloadUrl": "https://github.com/MadeByAppLove/Windows-8.1-Appx-Archive/releases/download/Windows8/GAMELOFTSA.UNOFriends_1.9.2.1_x86__0pp20fcewvvtj.appx",
+        "iconUrl": "https://i.ibb.co/CppbPpqw/Push-Large.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Card + Casino",
+        "Screenshots": [],
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=UNO & Friends+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=UNO & Friends+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=UNO & Friends+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=UNO & Friends+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=UNO & Friends+Screenshot+5"
+        ],
+        "accentColor": "#65411E",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/unoandfriendswide.png",
+        "architecture": "x86",
+        "packageFamilyName": "GAMELOFTSA.UNOFriends",
+        "size": "51.7 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 GAMELOFT SA"
     }
+
+    
 ]
