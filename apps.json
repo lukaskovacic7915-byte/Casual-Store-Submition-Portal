@@ -6806,34 +6806,6 @@
             "English (United States)"
         ],
         "copyright": "\u00a9 2026 Midnight Labs Ltd"
-    },
-     {
-            "name": "WSRP store",
-        "publisher": "MicroSoftware Studios",
-        "version": "26h2",
-        "description": "A cool store revival project",
-        "downloadUrl": "https://github.com/ms-store-appx/WSRP-Store/blob/main/WSRP.WindowsStore25H2_1.2.1.25_neutral__yjbnaxqe2y7jt.appx",
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2wUAcWNpBKxiqLb4dDxJZ3r4KLYVo6ZfpL3-yci-1g&s=10",
-        "featured": true,
-        "type": "App",
-        "category": "Utilities",
-        "screenshots": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeY3D4VjzvmdaMUv3WpBw0udM0bqGdZ4KKgzvagTIKqw&s=10"
-        ],
-        "accentColor": "#ac193d",
-        "wideLogoUrl": "",
-        "architecture": "Neutral",
-        "packageFamilyName": "",
-        "size": "few MB",
-        "permissions": [
-            "Access Your Internet Connection"
-        ],
-        "publishedDate": "2025",
-        "eula": "",
-        "privacyPolicy": "",
-        "supportedLanguages": [
-            "English (United States)"
-        ],
-        "copyright": "MicroSoftware Studios"
-}
+    }
+
 ]
