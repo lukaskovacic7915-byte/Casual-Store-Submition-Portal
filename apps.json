@@ -3980,5 +3980,34 @@
             "English (United States)"
         ],
         "copyright": "\u00a9 2026 amostjar"
+    },
+        {
+        "name": "VLC Media player for Windows 8",
+        "publisher": "AccuWeather",
+        "version": "3.0.4.213",
+        "description": "VLC media player.",
+        "downloadUrl": "https://archive.org/download/Win8AppxArchive/Original%20APPX/Music%20%26%20Video/VideoLAN.VLCforWindows8_2018.802.923.0_neutral_~_paz6r1rewnh0a.zip/VideoLAN.VLCforWindows8_2018.802.923.0_neutral_~_paz6r1rewnh0a.appxbundle",
+        "iconUrl": "https://pcchip.hr/wp-content/uploads/2014/03/vlc-windows-8.jpg",
+        "featured": false,
+        "type": "App",
+        "category": "Video",
+        "screenshots": [
+            "https://cdn.redmondpie.com/wp-content/uploads/2014/03/Video_Page.png"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "x86",
+        "packageFamilyName": "",
+        "size": "",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2018",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "VideoLAN"
     }
 ]
