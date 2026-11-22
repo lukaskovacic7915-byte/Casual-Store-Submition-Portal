@@ -3540,6 +3540,445 @@
         "permissions": [
             "Internet (Client & Server)"
         ]
+    },
+        {
+        "id": "1181",
+        "name": "13th Jump Arcade",
+        "publisher": "LRPSoft",
+        "version": "1.1.0.0",
+        "description": "Play this addictive game is an infinite jumper platformer with many levels and action, try it on your tablet or surface, PC also. Infinite Jumper Game, you have to go up to get Level 13th if you made it then make a Jump from that level to forget your fear. Can you make it? You have to reach Level 13 to Win. Use one finger to tap your character or use two fingers if you want, just tap the side of the screen where your player want to go. ENJOY !!!!! New weapons !! New Enemies to avoid !! Spanish language added !! New type of platforms colors to jump more !! New Leaderboard !! Live Tiles !!",
+        "category": "Action",
+        "type": "Game",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/4503LRPSoft.13thJumpArcade_1.1.0.0_neutral__013zzk4m9mqe8.appx",
+        "iconUrl": "https://i.ibb.co/Q771rmsN/2ac4a4746e6f.png",
+        "featured": false,
+        "discord_id": "1351551703006187571",
+        "discord_username": "tetify",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1351551703006187571/415fc1ca87857097f3fde71744fcee21.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=13th Jump Arcade+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=13th Jump Arcade+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=13th Jump Arcade+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=13th Jump Arcade+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=13th Jump Arcade+Screenshot+5"
+        ],
+        "accentColor": "#937F80",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/13thjumparcadewide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "4503LRPSoft.13thJumpArcade",
+        "size": "2.4 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 LRPSoft"
+    },
+    {
+        "id": "1182",
+        "name": "LumiaModels",
+        "publisher": "Bisneto",
+        "version": "2.0.1.0",
+        "description": "Lumia Models wants to be the best Lumia App from Windows Phone Store. Help following @LumiaModels on Twitter, rating and reviewing the app on the Store and sharing ideas!\r\n\r\nMAIN RESOURCES:\r\n\r\n? MODELS INFO: With the Model Info, you can check all the technical information of the Lumia models from Nokia / Microsoft.\r\nThe list is organized according to the names of the models. This makes it much easier to find the Lumia model information you want to know about.\r\n\r\n? SYSTEMS: The Systems window has been developed for you to learn more about the versions of Windows Phone OS already released.\r\nAll versions gathered in one place, easily and conveniently with details on release dates and system versions.\r\n\r\n? XBOX INFO: With the Xbox Info, you can check all the technical information of the Xbox 360 and One from Microsoft.\r\n\r\n? PRICE GROUP: The Price Group was created according to the price of all Lumia Devices.",
+        "category": "Books + Reference",
+        "type": "App",
+        "downloadUrl": "https://raw.githubusercontent.com/msnsports-31000/msnsports-31000/refs/heads/main/octostore/57315Bisneto.344239509A17C_2.0.1.0_neutral__vn2evr44471p6.Appx",
+        "iconUrl": "https://raw.githubusercontent.com/msnsports-31000/msnsports-31000/refs/heads/main/octostore/Logo.scale-100.png",
+        "featured": false,
+        "discord_id": "1394194526415097926",
+        "discord_username": "msnsports",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1394194526415097926/42f83811561eefc13b6c7704daf33b2d.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=LumiaModels+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=LumiaModels+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=LumiaModels+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=LumiaModels+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=LumiaModels+Screenshot+5"
+        ],
+        "accentColor": "#2c5899",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/lumiamodelswide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "57315Bisneto.344239509A17C",
+        "size": "2.5 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Bisneto"
+    },
+    {
+        "id": "1183",
+        "name": "Steps Elite",
+        "publisher": "greatestever",
+        "version": "1.1.0.1",
+        "description": "Steps Logic, memory, and recall all in one simple to play and addictive game. The goal is to figure out the sequence or pattern for each level. If you treat the steps starting from the bottom going to the top as numbers 1-5, some sequences can be easier to solve. Steps consists of simple patterns, audio patterns, and tricky patterns.",
+        "category": "Strategy",
+        "type": "Game",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/8883greatestever.StepsElite_1.1.0.1_x86__j2g1j5x9000w4_1785019620.appx",
+        "iconUrl": "https://i.ibb.co/nJJ6V4q/download.png",
+        "featured": false,
+        "discord_id": "1352463463326289992",
+        "discord_username": "quickviper10069",
+        "discord_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Steps Elite+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Steps Elite+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Steps Elite+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Steps Elite+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Steps Elite+Screenshot+5"
+        ],
+        "accentColor": "#000000",
+        "wideLogoUrl": "https://i.ibb.co/qMqtkWyr/steps.png",
+        "architecture": "x86",
+        "packageFamilyName": "8883greatestever.StepsElite",
+        "size": "2.5 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 greatestever"
+    },
+    {
+        "id": "1184",
+        "name": "Hexic",
+        "publisher": "Microsoft Studios",
+        "version": "1.2.0.36",
+        "description": "A whole new Hexic experience! Spin and match hexes through 100 levels in this addictive puzzle adventure, now available on all Windows devices! The geometric world of Hexic needs your help! Spin and swipe your way through 100 levels of challenging puzzles as you battle encryption cells, corruption clusters, mysterious dark fragments, and viral vectors. Featuring all new chain combos with swipe-and-match gameplay and mechanics originally designed by Alexey Pajitnov, creator of the legendary puzzle game Tetris. With new Boosts and Assists that are sure to send scores soaring, the competition is fiercer than ever. Compare and compete for high scores with friends on level-by-level leaderboards, or connect Hexic to Facebook to take the bragging online. Do you have what it takes to save Hexic?",
+        "category": "Puzzle",
+        "type": "Game",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Microsoft.Hexic_1.2.0.36_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "https://i.ibb.co/1f9c8ZXL/6f6ddb406688.png",
+        "featured": false,
+        "discord_id": "1491498479753887813",
+        "discord_username": "kitty93342336",
+        "discord_avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Hexic+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Hexic+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Hexic+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Hexic+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Hexic+Screenshot+5"
+        ],
+        "accentColor": "#49ACA7",
+        "wideLogoUrl": "https://i.ibb.co/kgvYCnPv/Wide-Logo-310x150.png",
+        "architecture": "x86",
+        "packageFamilyName": "Microsoft.Hexic",
+        "size": "31.2 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Microsoft Studios"
+    },
+    {
+        "id": "1185",
+        "name": "Doodle God Blitz HD",
+        "publisher": "JoyBits Ltd",
+        "version": "3.1.0.38",
+        "description": "Over 190 Million Players Worldwide!\nAvailable in 13 Languages\n\nUNLEASH YOUR INNER GOD AND CREATE A UNIVERSE!\n\nIn this addictive, ALL ages, puzzle game mix and match different combinations of fire, earth, wind and air to create an entire universe! As you create each element watch your world come alive as each element animates on your planet. The new ??Planet? mode offers a new challenging way to create a universe of your dreams.\n\nOf course the universe was not created in a day. You??ll have to work your up from a simple microorganism to create animals, tools, storms and even build armies before you have what it takes to build the universe! But beware, the power of creation may have unintended consequences, inventing the wheel might just trigger a zombie plague? Don??t worry, you are not alone on this cosmic journey! Every time you successfully create a new item you??ll be rewarded with the wit and wisdom of some of the greatest philosophers and comedians of all time. Unleash your inner god with Doodle God?!\n\nCRITICS LOVE IT!\n\n>Apple REWIND AWARD\n>??Wonderfully unique concept. Deeply satisfying!? ?? GameZebo\n>??Giving it huge thumbs up!\" - TUAW\n>??It??s addictive. Insanely so! Lots of fun.? ?? 148Apps\n>??Discovering each new element was an utter delight.\" - AppSafari\n>\"You'll have to use your creativity? ruthlessly addictive.\" - Slide2Play\n>\"I would recommend buying it, definitely worth it!? - TouchGen\n\nFollow us to get early access to exclusive content, price drops and updates:\nLIKE: www.facebook.com/doodlegod\nFOLLOW: www.twitter.com/joybitsmobile\nCheck out our other exciting games! Doodle Devil, Doodle Kingdom? & Doodle Creatures",
+        "category": "Puzzle",
+        "type": "Game",
+        "downloadUrl": "https://github.com/kitty93341-commits/Windows8Appx/releases/download/Windows8/JoyBitsLtd.DoodleGodPlanetHD_3.1.0.38_x86__2687mb06qk6xe.appx",
+        "iconUrl": "https://raw.githubusercontent.com/kitty93341-commits/Windows8Appx/refs/heads/main/Icons/DoodleGodBlitz.png",
+        "featured": false,
+        "discord_id": "1491498479753887813",
+        "discord_username": "kitty93342336",
+        "discord_avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Doodle God Blitz HD+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Doodle God Blitz HD+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Doodle God Blitz HD+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Doodle God Blitz HD+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Doodle God Blitz HD+Screenshot+5"
+        ],
+        "accentColor": "#0071eb",
+        "wideLogoUrl": "https://i.ibb.co/tpPzJySq/Wide-Logo-scale-100.png",
+        "architecture": "x86",
+        "packageFamilyName": "JoyBitsLtd.DoodleGodPlanetHD",
+        "size": "265.8 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 JoyBits Ltd"
+    },
+    {
+        "id": "1186",
+        "name": "Skype Original",
+        "publisher": "Microsoft Corporation",
+        "version": "1.1.0.25",
+        "description": "BROKEN\r\n\r\nSkype is retiring in May 2025. Log in to Microsoft Teams Free with your Skype account, and your chats and contacts will be ready for you. Enjoy the features you love about Skype and more including free calling, meetings, messaging, calendar, communities, and more - all on Teams. Thank you for being a part of the Skype community. We??re excited about the opportunities ahead with Microsoft Teams and look forward to continuing to support your everyday connections in new and improved ways. With gratitude, The Skype team ? Privacy and Cookies policy: https://go.microsoft.com/fwlink/?LinkID=507539 ? Microsoft Services Agreement: https://go.microsoft.com/fwlink/?LinkID=530144 ? EU Contract Summary: https://go.skype.com/eu.contract.summary ? Consumer Health Data Privacy Policy: https://go.microsoft.com/fwlink/?linkid=2259814",
+        "downloadUrl": "https://lumaprojects.dankassassin368.com/idk/Microsoft.SkypeApp_1.1.0.25_x86__kzf8qxf38zg5c.appx",
+        "iconUrl": "https://lumaprojects.dankassassin368.com/idk/skype.png",
+        "featured": false,
+        "type": "App",
+        "category": "Other",
+        "Screenshots": [],
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Skype Original+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Skype Original+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Skype Original+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Skype Original+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Skype Original+Screenshot+5"
+        ],
+        "accentColor": "#00AFF0",
+        "wideLogoUrl": "https://i.ibb.co/wrQ0NnbB/skype-logo-310x150.png",
+        "architecture": "x86",
+        "packageFamilyName": "Microsoft.SkypeApp",
+        "size": "10.2 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Microsoft Corporation"
+    },
+    {
+        "id": "1187",
+        "name": "Tile Gallery",
+        "publisher": "Windows Modern",
+        "version": "1.0.0.17",
+        "description": "Tile Gallery helps you create a picture sideshow for Start menu tiles. Github Project: https://github.com/modernw/TileGallery",
+        "category": "Utilities",
+        "type": "App",
+        "downloadUrl": "https://tetify.dankassassin368.com/appx/octostore/WindowsModern.TileGallery_1.0.0.17_neutral__y8ve4exr9cgxp.appx",
+        "iconUrl": "https://i.ibb.co/spbxYdZG/f57f7ecff7c1.png",
+        "featured": false,
+        "discord_id": "1351551703006187571",
+        "discord_username": "tetify",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1351551703006187571/415fc1ca87857097f3fde71744fcee21.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Tile Gallery+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Tile Gallery+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Tile Gallery+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Tile Gallery+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Tile Gallery+Screenshot+5"
+        ],
+        "accentColor": "#B4009E",
+        "wideLogoUrl": "https://i.ibb.co/yJrSLTJ/Wide-Tile.png",
+        "architecture": "neutral",
+        "packageFamilyName": "WindowsModern.TileGallery",
+        "size": "0.5 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Windows Modern"
+    },
+    {
+        "id": "1188",
+        "name": "My Nokia",
+        "publisher": "Nokia Corporation",
+        "version": "1.0.1339.2",
+        "description": "Get the most out of your tablet. My Nokia provides you with helpful information and support for your Nokia tablet. You can also register your tablet to help Nokia improve customer service. With My Nokia: - Get tips & tricks, browse the user guide and access online support pages. - Sign up for a Nokia account to register your tablet and maximize your experience with Nokia apps. - Give feedback on your experience so we can keep making it better.",
+        "category": "Utilities",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/NokiaCorporation.MyNokia_1.0.1339.2_arm__6d0q6r3z979nw.appx",
+        "iconUrl": "https://i.ibb.co/CK67RdVv/652e22824a41.png",
+        "featured": false,
+        "discord_id": "1441768356397977731",
+        "discord_username": "vbmeta",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1441768356397977731/46dc3aa4f55715a34d6f1f543955804a.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=My Nokia+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=My Nokia+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=My Nokia+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=My Nokia+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=My Nokia+Screenshot+5"
+        ],
+        "accentColor": "#B4009E",
+        "wideLogoUrl": "https://i.ibb.co/mVFv44Cg/Wide-Logo-scale-100.png",
+        "architecture": "arm",
+        "packageFamilyName": "NokiaCorporation.MyNokia",
+        "size": "1.7 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Nokia Corporation"
+    },
+    {
+        "id": "1189",
+        "name": "Nokia Camera",
+        "publisher": "Nokia Corporation",
+        "version": "1.1.3.0",
+        "description": "Requires the Lumia 2520 tablet. Lumia Camera takes truly stunning photos and videos, and is perfect for anyone who wants to take control of their camera. The Auto mode is ideal for those moments when you need to be quick. Sports and Night scene modes help you take better pictures of movement or in the dark. When you want to create that perfect composition, use the manual controls to change exposure, shutter speed, ISO, white balance and focus. Current camera settings are clearly displayed on screen so you can see if you need to make any adjustments. To use Lumia Camera on your Lumia 2520, make sure you have Windows RT version 8.1 or later installed. You can check for updates by going to Settings > Windows Update. Exclusively for Lumia",
+        "category": "Photo + Design",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/NokiaCorporation.NokiaCamera_1.1.3.0_arm__6d0q6r3z979nw.appx",
+        "iconUrl": "https://i.ibb.co/svHvjzJC/5af37b08ffa1.png",
+        "featured": false,
+        "discord_id": "1441768356397977731",
+        "discord_username": "vbmeta",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1441768356397977731/46dc3aa4f55715a34d6f1f543955804a.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Nokia Camera+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Nokia Camera+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Nokia Camera+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Nokia Camera+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Nokia Camera+Screenshot+5"
+        ],
+        "accentColor": "#7e299e",
+        "wideLogoUrl": "https://i.ibb.co/VWDywThf/wideimages.png",
+        "architecture": "arm",
+        "packageFamilyName": "NokiaCorporation.NokiaCamera",
+        "size": "0.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Nokia Corporation"
+    },
+    {
+        "id": "1190",
+        "name": "Minecraft: Windows 8.1 Edition",
+        "publisher": "Microsoft Studios",
+        "version": "1.0.16.0",
+        "description": "The mobile edition of the popular game Minecraft, allows users to create a world and embark on adventures in a block-based universe.",
+        "downloadUrl": "https://tetify.dankassassin368.com/appx/octostore/Minecraft_1.0.0_WIN81.appx",
+        "iconUrl": "https://i.ibb.co/bjKrx4Wf/minecraft8-1.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Games",
+        "Screenshots": [],
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Minecraft: Windows 8.1 Edition+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Minecraft: Windows 8.1 Edition+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Minecraft: Windows 8.1 Edition+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Minecraft: Windows 8.1 Edition+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Minecraft: Windows 8.1 Edition+Screenshot+5"
+        ],
+        "accentColor": "#706742",
+        "wideLogoUrl": "https://i.ibb.co/qM4V9gf9/Wide310x150-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "HienoB.Minecraft",
+        "size": "161.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Microsoft Studios"
+    },
+    {
+        "id": "1191",
+        "name": "Speedtest 8",
+        "publisher": "Micha? Mizera",
+        "version": "1.5.2.7",
+        "description": "Speedtest 8 is the app that allows you to test your internet connection speed. You have access to your tests local history, and you can compete with other people using included online ranking.",
+        "category": "Utilities",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/35328Axadiw.Speedtest8_1.5.2.7_neutral__q0ek1vwtayzv0.appx",
+        "iconUrl": "https://i.ibb.co/fYKVvyCR/0a3d435f596c.png",
+        "featured": false,
+        "discord_id": "1351551703006187571",
+        "discord_username": "tetify",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1351551703006187571/415fc1ca87857097f3fde71744fcee21.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Speedtest 8+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Speedtest 8+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Speedtest 8+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Speedtest 8+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Speedtest 8+Screenshot+5"
+        ],
+        "accentColor": "#CB3232",
+        "wideLogoUrl": "https://i.ibb.co/JW0MrdTk/Wide-Logo.png",
+        "architecture": "neutral",
+        "packageFamilyName": "35328Axadiw.Speedtest8",
+        "size": "0.6 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Micha? Mizera"
+    },
+    {
+        "id": "1192",
+        "name": "My Car Manager",
+        "publisher": "amostjar",
+        "version": "2.1.1.34",
+        "description": "Would you like to know how much you spend on your car? You want to control your expenses and see all the statistics of refills, services and other expenses? Then this app is for you. You only need to enter data about fueling, services or any other costs and application will calculate results and show statistics in various forms, in various categories and for different periods of time. And for added convenience, This free version of the app with advertising. If you like the app and want to support the developer or want to disable ads - buy Pro-version application. All your data with this version will be available in the Pro-version.",
+        "category": "Other",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/55038amostjar.MyCarManager_2.1.1.34_neutral___y7k60mebkwdwy.appxbundle",
+        "iconUrl": "https://i.ibb.co/np1Tx2Z/646b21479fdd.png",
+        "featured": false,
+        "discord_id": "1351551703006187571",
+        "discord_username": "tetify",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1351551703006187571/415fc1ca87857097f3fde71744fcee21.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=My Car Manager+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=My Car Manager+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=My Car Manager+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=My Car Manager+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=My Car Manager+Screenshot+5"
+        ],
+        "accentColor": "#c37c01",
+        "wideLogoUrl": "https://i.ibb.co/HfxRsvGn/Wide-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.MyCarManager_8wekyb3d8bbwe",
+        "size": "4.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 amostjar"
     }
-
 ]
