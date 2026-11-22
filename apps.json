@@ -4018,7 +4018,7 @@
         "downloadUrl": "https://dl.os.click/OS/NT10/2019_LTSC/Enterprise/en_windows_10_enterprise_ltsc_2019_x86_dvd_97449f83.iso?md5=qHBg1o1gYOpwZcodTg6Kew&expires=1795443015",
         "iconUrl": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/Windows_10_logo_9.jpg",
         "featured": false,
-        "type": "ISO",
+        "type": "App",
         "category": "Utilities",
         "screenshots": [
             "https://blog.nodefusion.com/wp-content/uploads/2015/07/windows-10.png"
