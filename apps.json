@@ -4883,5 +4883,638 @@
             "English (United States)"
         ],
         "copyright": "\u00a9 2026 PLAY.CZ"
+    },
+        {
+        "id": "1218",
+        "name": "?T sport",
+        "publisher": "?esk? televize",
+        "version": "1.0.0.10",
+        "description": "Aplikace nab?z? neust?l? p?ehled aktu?ln?ch cl?nku port?lu ?T sport a ?iv? vys?l?n? sportovn? stanice ?T sport pro V? poc?tac nebo tablet. Aplikace nab?z?: - ?iv? vys?l?n? zpravodajsk?ho ?T sport - Okam?it? p?ehled cl?nku - ?l?nky ?azen? do t?matick?ch kategori? - Mo?nost odesl?n? cl?nku emailem. Obsah poskytuje port?l www.ctsport.cz Aplikaci pro ?T vyvinul Mobildrive.cz",
+        "category": "Sports",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Ceskatelevize.Tsport_1.0.0.10_x86__ndqbq1wc819cy.appx",
+        "iconUrl": "https://i.ibb.co/1JJ30vtG/ed35b947542c.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=?T sport+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=?T sport+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=?T sport+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=?T sport+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=?T sport+Screenshot+5"
+        ],
+        "accentColor": "#00D700",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/tsportwide.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.Tsport_8wekyb3d8bbwe",
+        "size": "1.3 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 ?esk? televize"
+    },
+    {
+        "id": "1219",
+        "name": "Toshiba Central",
+        "publisher": "Toshiba America Information Systems, Inc.",
+        "version": "1.1.0.7",
+        "description": "Stay in touch with Toshiba! Toshiba Central will provide easy access to your User's Guide, support links, product information, and much more.",
+        "category": "Other",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/ToshibaAmericaInformation.ToshibaCentral_1.1.0.7_neutral__r8x1fxsdcnpjw.appx",
+        "iconUrl": "https://i.ibb.co/HfyPGXRb/f7e9927dc4a8.png",
+        "featured": false,
+        "discord_id": "1420804427169665126",
+        "discord_username": "andrew122300",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/1420804427169665126/243690b65ef85ab3019e56db4abdc84e.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Toshiba Central+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Toshiba Central+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Toshiba Central+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Toshiba Central+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Toshiba Central+Screenshot+5"
+        ],
+        "accentColor": "#CC0000",
+        "wideLogoUrl": "https://i.ibb.co/k2s3MQ5F/App-Wide-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.ToshibaCentral_8wekyb3d8bbwe",
+        "size": "7.5 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Toshiba America Information Systems, Inc."
+    },
+    {
+        "id": "1220",
+        "name": "?T24",
+        "publisher": "?esk? televize",
+        "version": "1.0.0.10",
+        "description": "Aplikace nab?z? neust?l? p?ehled aktu?ln?ch cl?nku port?lu ?T24 a ?iv? vys?l?n? zpravodajsk? stanice ?T24 pro V? telefon. Aplikace nab?z?: - ?iv? vys?l?n? zpravodajsk?ho ?T24 - Okam?it? p?ehled cl?nku - ?l?nky ?azen? do t?matick?ch kategori? - Mo?nost odesl?n? cl?nku emailem. Obsah poskytuje port?l www.ct24.cz. Aplikaci pro ?T vyvinul Mobildrive.cz",
+        "category": "News + Weather",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Ceskatelevize.CT24_1.0.0.10_x86__ndqbq1wc819cy.appx",
+        "iconUrl": "https://i.ibb.co/nqq1Y7wZ/aa1e206b6573.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=?T24+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=?T24+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=?T24+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=?T24+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=?T24+Screenshot+5"
+        ],
+        "accentColor": "#027AED",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/T24wide.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.T24_8wekyb3d8bbwe",
+        "size": "1.6 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 ?esk? televize"
+    },
+    {
+        "id": "1221",
+        "name": "Email.cz",
+        "publisher": "Seznam.cz a.s.",
+        "version": "2.4.1.0",
+        "description": "S aplikac? Email.cz od Seznamu m?te svou e-mailovou schr?nku v?ude s sebou. D? v?d?t, kdy? v?m p?ijde e-mail. D?ky vyhled?v?n? okam?it? najdete i star?? zpr?vy. P??lohy otev?ete p??mo v aplikaci. Pokud m?te schr?nek v?c, mu?ete si je p?idat v?echny a jednodu?e mezi nimi p?ep?nat. Aby ti tam nikdo necmuchal, zamkni si ho PIN k?dem. T?m?? nikdo nevyu??val mo?nost st?hnout si cel? obsah e-mailov? schr?nky do telefonu, proto jsme tuto funkci zru?ili.",
+        "category": "Utilities",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/949FFEAB.Email.cz_2.4.1.0_x86__refxrrjvvv3cw.appx",
+        "iconUrl": "https://i.ibb.co/KxW0y872/b75bd166fc00.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Email.cz+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Email.cz+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Email.cz+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Email.cz+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Email.cz+Screenshot+5"
+        ],
+        "accentColor": "#EF7D00",
+        "wideLogoUrl": "https://i.ibb.co/Z1mH97Bd/Email.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.Emailcz_8wekyb3d8bbwe",
+        "size": "2.8 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Seznam.cz a.s."
+    },
+    {
+        "id": "1223",
+        "name": "iVys?l?n?",
+        "publisher": "?esk? televize",
+        "version": "1.2.0.0",
+        "description": "Archiv odvys?lan?ch po?adu ?esk? televize, kter? obsahuje v?ce ne? 4 roky videoobsahu si mu?ete u??t p??mo ve sv?m poc?taci nebo tabletu. V?b?ry: Doporucen? videa ke zhl?dnut?, budete m?t v?dy po ruce. P?ipravili jsme pro v?s v?b?ry nejsledovan?j??ch vide? dne a aktu?ln?ho t?dne, to nejlep?? z na?eho archivu a tak? po?ady, kter? pr?v? sleduj? ostatn?. Moje iVys?l?n?: Sestavte si svuj vlastn? program z po?adu ?esk? televize. Stac? p?idat obl?ben? c?sti do vlastn?ho playlistu. Po?ady A-Z: Hled?te konkr?tn? po?ad? Abecedn? rozcestn?k v?m bude dobr?m pomocn?kem. Vyhled?vat mu?ete tak? podle ??nru. Po?ady podle data: Pohodln? mu?ete archiv prohled?vat tak? pomoc? televizn?ch programu jednotliv?ch kan?lu ?esk? televize (?T1, ?T2, ?T24, ?T sport, ?T :D, ?T art). Stac? jen tu?it, kdy p?ibli?n? se po?ad kter? hled?te vys?lal. ?iv? vys?l?n?: Sledujte ?iv? vys?l?n? v?ech kan?lu ?esk? televize - ?T1, ?T2, ?T24, ?T4. (Plat? pouze pro po?ady, kde ?T disponuje pr?vem pro internetov? vys?l?n?). P?ehran? po?ady: Aplikace si pamatuje v?echny po?ady, kter? jste si pustili v posledn?ch 30ti dnech. V p??padn? p?eru?en? nav?c zn? p?esn? m?sto odkud m? pokracovat v p?ehr?v?n?. Aplikaci pro ?T vyvinul Mobildrive.cz",
+        "category": "Video + Entertainment",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/Ceskatelevize.iVysln_1.2.0.0_x86__ndqbq1wc819cy.appx",
+        "iconUrl": "https://i.ibb.co/jvJndQ4J/df208156581d.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=iVys?l?n?+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=iVys?l?n?+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=iVys?l?n?+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=iVys?l?n?+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=iVys?l?n?+Screenshot+5"
+        ],
+        "accentColor": "#FFFFFF",
+        "wideLogoUrl": "https://i.ibb.co/PsM837RY/i-Vys-l-n.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.iVysln_8wekyb3d8bbwe",
+        "size": "1.4 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 ?esk? televize"
+    },
+    {
+        "id": "1224",
+        "name": "?cko TV",
+        "publisher": "Mediawork group s.r.o.",
+        "version": "1.0.0.9",
+        "description": "Prvn? televize ve Windows Store, kter? vys?l? online muziku do tv?ho p??stroje je tu! D?ky aplikaci ??KO TV (OCKO TV). Nyn? t? videoklipy TV ?cka dostihnout v?ude, at jsi doma na WiFi nebo na cest?ch s 3G ci Edge. A muziku si pust? i kdy? nejsi na rychl?m internetu. ??KO TV se p?izpusobuje dle aktu?ln? rychlosti p?ipojen? k Internetu.",
+        "category": "Music + Audio",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/D4249398.koTV_1.0.0.9_x86__s32wv7k50z2v8.appx",
+        "iconUrl": "https://i.ibb.co/Jjx4W49P/3121e9b15cd2.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=?cko TV+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=?cko TV+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=?cko TV+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=?cko TV+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=?cko TV+Screenshot+5"
+        ],
+        "accentColor": "#FF0000",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/ockowide.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.koTV_8wekyb3d8bbwe",
+        "size": "2.6 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Mediawork group s.r.o."
+    },
+    {
+        "id": "1225",
+        "name": "Poh?dky",
+        "publisher": "Seznam.cz a.s.",
+        "version": "2.5.0.0",
+        "description": "V poh?dkov? aplikaci od Streamu cekaj? na v?s a va?e nejmen?? obl?ben? p??b?hy vecern?ckov?ch hrdinu, ukol?bavky v pod?n? zn?m?ch osobnost? nebo t?eba Vychyt?vecky, tvo?iv? d?lnicka podporuj?c? d?tskou kreativitu. V?e si mu?ete st?hnout a d?vat se i bez p?ipojen? k internetu. Poh?dkov? dobrodru?stv? se neokoukaj?, proto?e jejich nab?dku pravideln? obm??ujeme.",
+        "category": "Video + Entertainment",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/949FFEAB.Pohdky_2.5.0.0_x86__refxrrjvvv3cw.appx",
+        "iconUrl": "https://i.ibb.co/ZRYjVMgR/4546d6b252c4.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Poh?dky+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Poh?dky+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Poh?dky+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Poh?dky+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Poh?dky+Screenshot+5"
+        ],
+        "accentColor": "#29ABE2",
+        "wideLogoUrl": "https://i.ibb.co/HJkD47V/Poh-dky.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.Pohdky_8wekyb3d8bbwe",
+        "size": "6.0 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Seznam.cz a.s."
+    },
+    {
+        "id": "1226",
+        "name": "Seznam.cz Hled?n?",
+        "publisher": "Seznam.cz a.s.",
+        "version": "1.2.0.0",
+        "description": "Seznam.cz search application for Windows 8. Easy and fast. Try it!",
+        "category": "Utilities",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/949FFEAB.Seznam.czHledn_1.2.0.0_neutral__refxrrjvvv3cw.appx",
+        "iconUrl": "https://i.ibb.co/4gYsTPvC/93f181495c17.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Seznam.cz Hled?n?+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Seznam.cz Hled?n?+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Seznam.cz Hled?n?+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Seznam.cz Hled?n?+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Seznam.cz Hled?n?+Screenshot+5"
+        ],
+        "accentColor": "#ffffff",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/seznamwide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.SeznamczHledn_8wekyb3d8bbwe",
+        "size": "0.0 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Seznam.cz a.s."
+    },
+    {
+        "id": "1228",
+        "name": "Stream.cz",
+        "publisher": "Seznam.cz a.s.",
+        "version": "2.5.0.0",
+        "description": "Origin?ln? po?ady internetov? televize Stream.cz si ted pust?te, at jste kdekoli. Obl?ben? po?ady si mu?ete st?hnout a pak je sledovat i bez p?ipojen? k internetu. Po?ady, kter? oznac?te jako obl?ben?, m?te v?dy po ruce v jedn? z?lo?ce. Mu?ete si tak? zapnout titulky a podle rychlosti internetu volit kvalitu p?ehr?van?ch vide?.",
+        "category": "Video + Entertainment",
+        "type": "App",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/949FFEAB.Stream.cz_2.5.0.0_x86__refxrrjvvv3cw.appx",
+        "iconUrl": "https://i.ibb.co/TMHfb0MY/b0cc9c60ae6c.png",
+        "featured": false,
+        "discord_id": "791336626269061150",
+        "discord_username": "mrlittleshark",
+        "discord_avatar": "https://cdn.discordapp.com/avatars/791336626269061150/0eadfacd354ffc4f37b1cc0146a0ce64.png?size=128",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Stream.cz+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Stream.cz+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Stream.cz+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Stream.cz+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Stream.cz+Screenshot+5"
+        ],
+        "accentColor": "#CC0000",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/streamczwide.png",
+        "architecture": "x86",
+        "packageFamilyName": "Publisher.Streamcz_8wekyb3d8bbwe",
+        "size": "9.1 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Seznam.cz a.s."
+    },
+        {
+        "id": "1249",
+        "name": "Grand Theft Auto: iFruit",
+        "publisher": "Rockstar Games",
+        "version": "1.11.23.3",
+        "description": "iFruit hooks directly into your experience of Grand Theft Auto V with some fun activities to further postpone the need for real social interaction. Keep up-to-date on the latest Grand Theft Auto V news, log into the Rockstar Games Social Club and stay connected on LifeInvader\n\nLos Santos Customs\nThe Los Santos Customs app offers players the freedom to create their ultimate vehicle in Grand Theft Auto V from anywhere. At the bar, on the beach, on the toilet. This is the future, we\u2019re almost sure of it.\n\nYou can even create and reserve custom license plates for both Grand Theft Auto V and Grand Theft Auto Online\n\nChop the Dog\nDepth of content, high production values, defecation. It\u2019s the app that has it all. Because who doesn\u2019t love tending to a virtual pet? Chop is Franklin\u2019s canine sidekick in Grand Theft Auto V. Look after him well in the \u201cChop the Dog\u201d app and you will reap the benefits when playing as Franklin in Grand Theft Auto V. Pet him, feed and water him, play fetch and tug-of-war, teach him tricks. Too much or too little of an activity, however, will cause Chop to become unhappy, and nobody likes an unhappy Rottweiler. Take Chop on walks to give him a chance to work off last night\u2019s steak and Piswasser and to mark his turf in the hood - defending his ladies, fending off gang members and even protecting the beach babes of Los Santos from unsightly tan lines by removing their bikinis.\n\nLooking after Chop successfully is reflected in his behavior in Grand Theft Auto V in a number of ways:\n\n- He will be more helpful and responsive to Franklin\n\n- He will perform tricks such as sitting, begging and giving paw if properly trained through the app\n\n- He will sniff out the nearest hidden items when the player takes him for a walk\n\n- Earn enough credits through walks and proper caretaking and exchange them for new collars for Chop",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/appx/501535ddc500d24f.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/a540626f9dfe0bcf.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Action",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/014d0f0f93e42168.jpg"
+        ],
+        "accentColor": "#9B9B9B",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/wideLogo/3a602fa7d914a2c7.png",
+        "architecture": "x86",
+        "packageFamilyName": "ifruitx86rel(or RockstarGames.GrandTheftAutoiFruit_1.11.23.3_x86__3t068xe29zjvp)",
+        "size": "124.2 MB",
+        "permissions": [
+            "Internet (Client)"
+        ]
+    },
+    {
+        "id": "1250",
+        "name": "Reddit8 (newRetiled)",
+        "publisher": "Luis Guerrero, migbrunluz",
+        "version": "3.8.0.3",
+        "description": "Reddit8 is a fast, elegant, and feature-packed Reddit client built natively for Windows 8.1. Experience Reddit like never before with a clean Metro-inspired interface tailored specifically for your device.\r\n  \r\nKey Features:\r\nFast and fluid browsing for your favorite subreddits and front page.\r\nFull multi-account support with seamless switching.\r\nView images, GIF animations, and self-text inline without leaving your feed.\r\nSend messages, check your inbox notifications, and reply to comments effortlessly.\r\nSubmit new links or text posts directly from your phone.\r\nCustom themes, including a true dark mode optimized for OLED screens.\r\nPin your favorite subreddits straight to your Start screen as Live Tiles.",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1353379420441939998/appx/5529ea877d1d9a4f.appxbundle",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1353379420441939998/logo/e98d9e6be5f8889d.png",
+        "featured": false,
+        "type": "App",
+        "category": "Social",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1353379420441939998/screenshot/f4f21173a5d78d00.png",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1353379420441939998/screenshot/b133e038698d3ac1.png",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1353379420441939998/screenshot/8c0d11fdd944f3eb.png"
+        ],
+        "accentColor": "#3b3d3e",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/reddit8wide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "24752LuisGuerrero.Reddit8",
+        "size": "6.0 MB",
+        "permissions": [
+            "Internet (Client)",
+            "Pictures Library",
+            "Videos Library",
+            "Music Library",
+            "Removable Storage",
+            "Webcam",
+            "Microphone"
+        ]
+    },
+    {
+        "id": "1251",
+        "name": "Essential Anatomy 3",
+        "publisher": "3D4Medical",
+        "version": "2017.301.1218.0",
+        "description": "The best selling human anatomy app ever! \n\n(Requires 2GB usable RAM)\n\nThis version of our award winning app was created for organizational use only and not for the general public.  If you\u2019re an individual that would like to purchase a single copy, please search for Essential Anatomy 3, which is also available in the Windows Store.\n\nDiscover the flagship product from the biggest anatomy app producer in the world, Essential Anatomy 3. \n***** Number 1 Medical iPad app in over 95 countries worldwide\n***** Groundbreaking 3D Technology - No competitor competes with graphics and medical accuracy\n***** Tuaw: \"Make no mistake about it: Essential Anatomy by 3D4Medical is the future of touch-based anatomy learning.\"Essential Anatomy is an app every doctor, physiotherapist, OT, nurse and medical student should own.\" \n***** NOW with over 4,000 anatomical structures, including 10 systems powered by our custom built 3D graphics engine\n\nESSENTIAL ANATOMY 3\nEssential Anatomy 3 represents the latest in groundbreaking 3D technology and innovative design. A cutting edge 3D graphics engine, custom built by 3D4Medical from the ground up, powers a highly-detailed anatomical model and delivers outstanding quality graphics that no other competitor can achieve.\n\nThe app represents a unique approach to learning general anatomy. The graphics are unparalleled and make learning, through the use of informative content and innovative features, a rich and engaging experience.\n\nThis app includes essential anatomy for 10 systems:\n\u2043Skeletal\n\u2043Muscles\n\u2043Connective Tissue\n\u2043Veins\n\u2043Arteries\n\u2043Nerves\n\u2043Respiratory\n\u2043Digestive\n\u2043Urinary\n\u2043Lymphatic\n\u2043also includes the Brain and Heart\n\nNEW 3D TECHNOLOGY\nEssential Anatomy 3 is responsive, visually stunning and effortless. The app is fully 3D, meaning that you can view any anatomic structure in isolation, as well as from any angle.\n\nEFFORTLESS NAVIGATION & FUNCTIONALITY\nClever functionality found within the app allows the user to strip away layers of muscle as well as being able to turn on/off systems without the need to deselect individual structures or muddle through a multitude of predefined regional tabs, like other apps. \n\nPREMIUM INTERFACE DESIGN\nEssential Anatomy 3 is designed with the user in mind - the body itself becomes the interface. Unlike other 3D apps, which rely on predefined anatomic arrangements and regional dissections to guide the user, 3D4Medical\u2019s Essential Anatomy 3 lets you find what you are looking for without complication. \n\n---- New 3D technology via 3D4Medical's latest graphics engine \n---- Over 4,000 highly detailed anatomical structures\n---- Multiple Selection Mode - Hide/Fade/Isolate individual or multiple structures\n---- Preset and customizable Bookmarks\n---- Correct audio pronunciation for every structure\n---- Latin nomenclature for each anatomical structure \n---- User friendly and intuitive interface \n---- Multiple search options \n---- Dynamic quiz function - Drag and Drop and Multi-choice\n---- Custom search modes \n---- Extensive social media tools and sharing capability\n\nAny feedback?  We thrive on engaging with customers and, unfortunately, can\u2019t respond directly to reviews.  Contact our customer support at info@3d4medical.com.  You will receive a response promptly!",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/appx/6fdea91e086b64c9.appxbundle",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/77691b9718a0e7b0.png",
+        "featured": false,
+        "type": "App",
+        "category": "Education",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/b5e4791d11e6ae9e.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/03825829284f0828.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/21e825941281f3f4.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/31b94dcdc7024462.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/66c2b078186284c4.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/1493c66663f0393c.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/e06dd2116650cfed.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/edc857944ab73b41.jpg"
+        ],
+        "accentColor": "#474B59",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/wideLogo/e5d7a565da71e728.png",
+        "architecture": "Neutral",
+        "packageFamilyName": "3D4Medical.comLLC.EssentialAnatomy3_2017.301.1218.0_neutral_~_jp2a6tdsptebg.appxbundle",
+        "size": "1.8 GB",
+        "permissions": [
+            "Internet (Client)",
+            "Internet (Client & Server)",
+            "Pictures Library"
+        ]
+    },
+    {
+        "id": "1252",
+        "name": "USA NOW",
+        "publisher": "NBCUniversal Media, LLC",
+        "version": "2014.1009.2058.4871",
+        "description": "(couldn't connect to sever, if it was retiled, remove this version)\n\nUSA NOW is your mobile destination for full episodes of your favorite USA shows, including new episodes available the day after they air on television and back episodes for some shows. Log in with your television provider account and open up a whole new way to enjoy USA \u2013 anywhere you are.\n\nDon\u2019t have a TV subscription, or is your provider not currently participating? There\u2019s still great stuff for you on USA NOW: special full episodes that don\u2019t require an account to view, exclusive video clips including behind-the-scenes and interviews, a program schedule, and much more to come!\n\nFeatures:\n\n\u2022 Full episode viewing when you authenticate with your TV provider\n\u2022 Selected full episodes without authenticating, when available\n\u2022 Special clips, interviews, and behind-the-scenes video\n\u2022 Program guide\n\u2022 Share what you\u2019re watching with your social network",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/appx/3f36cc278a93d5b8.appxbundle",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/df70b66c79376aa5.png",
+        "featured": false,
+        "type": "App",
+        "category": "Video + Entertainment",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/3e04a094aacae009.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/4d900bac3b853447.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/c7410a806eb8bdb1.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/9882fd75f59a5586.jpg"
+        ],
+        "accentColor": "#0F75BD",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/wideLogo/c000d06ccf69229d.png",
+        "architecture": "Neutral",
+        "packageFamilyName": "NBCUniversalMediaLLC.USANOW_2014.1009.2058.4871_neutral_~_3tyhdar1yvg98.appxbundle",
+        "size": "5.8 MB",
+        "permissions": [
+            "Internet (Client)",
+            "Internet (Client & Server)"
+        ]
+    },
+    {
+        "id": "1253",
+        "name": "eBay",
+        "publisher": "eBay Inc",
+        "version": "2014.1029.2128.3098_neutral",
+        "description": "(Starting September 30th 2016, the eBay App for Windows will no longer be available. You can still shop on eBay by visiting us at eBay from your browser.)\nThe eBay app for Windows 8.1\u2122 is an all-access pass to the world\u2019s largest marketplace. With it, you\u2019re able to conveniently manage all of your eBay buying and selling activity on the go. So no matter where you are, you can find everything you\u2019re looking for and everything you never knew you wanted.\n\nShopping Inspiration - Introducing a new, personalized home screen based on your shopping preferences. Check out eBay Deals, special recommendations and hot items chosen just for you.\n\nSelling - Selling on eBay is easy with the app. Just snap a picture of your item to get started. Our app syncs with the eBay website allowing you to seamlessly move between the two for your convenience.\n\nNotifications - Never miss another opportunity to get that hard-to-find item with eBay notifications on your Windows 8.1\u2122 device. Stay up-to-date on the status of your auctions, watched items, and eBay sales wherever you are. Pinning \u2018Live Tiles\u2019 to the homepage provides updated information about your activity.\n\nWe have been listening to excellent suggestions about usability, and have made many changes to enhance the experience as a result. Please provide feedback, suggestions, and comments via the app\u2019s Settings > Contact eBay.",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/appx/827fd23b0abe3106.appxbundle",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/logo/b3a6b48470e3552a.png",
+        "featured": false,
+        "type": "App",
+        "category": "Shopping",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/a0d33420cf933307.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/4932e5294d9fe5f9.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/9922fdcd7488217f.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/335cff6b9401ecca.jpg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/screenshot/4509dffc17514977.jpg"
+        ],
+        "accentColor": "#F0F0F0",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/931926702442049556/wideLogo/f2d7c4c2de5279d6.png",
+        "architecture": "Neutral",
+        "packageFamilyName": "eBayInc.eBay_2014.1029.2128.3098_neutral_~_1618n3s9xq8tw.AppxBundle",
+        "size": "3.0 MB",
+        "permissions": [
+            "Internet (Client)",
+            "Internet (Client & Server)",
+            "Location"
+        ]
+    },
+    {
+        "id": "1255",
+        "name": "Best Tube For 10",
+        "publisher": "YERSHOV",
+        "version": "2.11.0.6",
+        "description": "Fully featured YouTube application and downloader for Windows 8. Enjoy your favorite channels, movies, music, create your own playlists, and download videos and music.",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1215476189255311410/appx/d7f7a68813193779.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1215476189255311410/logo/0958c5a796f4ab70.png",
+        "featured": false,
+        "type": "App",
+        "category": "Video + Entertainment",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1215476189255311410/screenshot/312d7b0220157502.png"
+        ],
+        "accentColor": "#e02d2a",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/best-tubefor10wide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "51340ARTUR.YERSHOV.PlayrforYouTube_t68j0ns4dz0tr",
+        "size": "5.0 MB",
+        "permissions": [
+            "Internet (Client)",
+            "Videos Library",
+            "Location"
+        ],
+        "publishedDate": "",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [],
+        "copyright": ""
+    },
+    {
+        "id": "1256",
+        "name": "Adera - Lite",
+        "publisher": "Microsoft",
+        "version": "1.2.0.25927",
+        "description": "Explore the world of Adera in this interactive guide to the popular Windows 8 game.",
+        "category": "Adventure",
+        "type": "Game",
+        "downloadUrl": "https://github.com/kitty93341-commits/Windows8Appx/releases/download/BigLoad/Microsoft.Adera-Lite_1.2.0.25927_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/12f028ed3ae0e602.png",
+        "featured": false
+    },
+    {
+        "id": "1257",
+        "name": "Bluey News",
+        "publisher": "Meshri Alranakh",
+        "version": "1.0.0.2",
+        "description": "See news about bluey",
+        "category": "News + Weather",
+        "type": "App",
+        "downloadUrl": "https://github.com/kitty93341-commits/Windows8Appx/releases/download/BigLoad/Dev2You.BlueyNews_1.0.0.2.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/fb3e15dd3d7d3e31.png",
+        "featured": false
+    },
+    {
+        "id": "1258",
+        "name": "BallStrike",
+        "publisher": "GPS Tuner Kft.",
+        "version": "2.0.0.1",
+        "description": "BallStrike - Augmented Reality Fitness Game",
+        "category": "Action",
+        "type": "Game",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1520107053073305811/appx/9c9d481822e3c130.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1520107053073305811/logo/fca15ff3b7bef89f.png",
+        "featured": false
+    },
+    {
+        "id": "1259",
+        "name": "RSS Reader Live",
+        "publisher": "HVietDev",
+        "version": "1.0.0.11",
+        "description": "A simple RSS Reader app with Live Tiles and Toast notification. This app is great at using with must-read feed.",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/56702HVietDev.RSSReaderLive_1.0.0.11_x86__rtf4fqtds1prg.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/logo/e37750d2fcfc7c35.png",
+        "featured": false,
+        "type": "App",
+        "category": "News + Weather",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/c5871b33f3a1e370.jpeg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/081e2dd5a7651b84.jpeg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/46780527f7d1b180.jpeg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/44d31fffc3e8b85a.jpeg",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/0b12ad64cf6b29b6.png"
+        ],
+        "accentColor": "#008299",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/wideLogo/112534cba5cdae04.png",
+        "architecture": "x86",
+        "packageFamilyName": "56702HVietDev.RSSReaderLive_rtf4fqtds1prg",
+        "size": "",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2013-11-05",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [],
+        "copyright": ""
+    },
+    {
+        "id": "1260",
+        "name": "Lep\u0161\u00ed.TV",
+        "publisher": "AppLove",
+        "version": "1.0.0.0",
+        "description": "Vyzkou\u0161ejte za 1K\u010d sledov\u00e1n\u00ed mno\u017estv\u00ed televizn\u00edch stanic, film\u016f a seri\u00e1l\u016f.\n\nSledujte sv\u00e9 obl\u00edben\u00e9 po\u0159ady p\u0159es internet kdekoliv v Evropsk\u00e9 Unii na mobilu (Android i iOS), v po\u010d\u00edta\u010di i televizi. S Lep\u0161\u00ed.TV m\u016f\u017eete sledovat \u017eiv\u00e9 vys\u00edl\u00e1n\u00ed i z po\u0159ady z archivu tehdy, kdy\u017e m\u00e1te \u010das.\n\nUnik\u00e1tn\u00ed funkce, kter\u00e9 z\u00edsk\u00e1te s Lep\u0161\u00ed.TV:\n\u2022 mnoho kvalitn\u00edch stanic za super cenu\n\u2022 nejdel\u0161\u00ed a\u017e 100 dn\u00ed zp\u011btn\u00e9 zhl\u00e9dnut\u00ed\n\u2022 a\u017e 4K kvalita obrazu\n\u2022 sledov\u00e1n\u00ed na r\u016fzn\u00fdch za\u0159\u00edzen\u00edch (mobil, TV, PC, tablet)\n\u2022 p\u0159et\u00e1\u010den\u00ed, pauza, stop\n\u2022 neomezen\u00e9 nahr\u00e1v\u00e1n\u00ed po\u0159ad\u016f\n\u2022 mo\u017enost nastaven\u00ed profil\u016f pro ka\u017ed\u00e9ho \u010dlena rodiny (v\u010d. rodi\u010dovsk\u00e9ho z\u00e1mku)\n\u2022 p\u0159es 30 000 r\u00e1di\u00ed z cel\u00e9ho sv\u011bta\n\u2022 obrovsk\u00e1 videot\u00e9ka, kterou lze filtrovat\n\u2022 v\u00edce ne\u017e 4000 film\u016f ihned k p\u0159ehr\u00e1n\u00ed bez p\u0159\u00edplatku\n\nLep\u0161\u00ed.TV V\u00e1m bude fungovat a\u017e pot\u00e9, co si ji p\u0159edplat\u00edte, a\u0165 u\u017e na webu www.lep\u0161\u00ed.tv nebo v aplikaci po sta\u017een\u00ed. Lep\u0161\u00ed.TV nab\u00edz\u00ed sledov\u00e1n\u00ed televize p\u0159es internet s obrovsk\u00fdm mno\u017estv\u00edm stanic za nejlep\u0161\u00ed cenu na trhu, proto si Lep\u0161\u00ed.TV m\u016f\u017ee dovolit skute\u010dn\u011b ka\u017ed\u00fd. V\u0161e je nav\u00edc bez z\u00e1vazku!\n\nPo\u0159\u00edzen\u00ed Lep\u0161\u00ed.TV je snadn\u00e9. Sta\u010d\u00ed m\u00edt libovoln\u00e9 internetov\u00e9 p\u0159ipojen\u00ed a aplikaci, kterou zdarma st\u00e1hnete. B\u011bhem p\u00e1r chvil tak z\u00edsk\u00e1te chytrou digit\u00e1ln\u00ed televizi se spoustou v\u00fdhod, zaj\u00edmav\u00fdch televizn\u00edch stanic, nejlep\u0161\u00edch film\u016f, televizn\u00edch seri\u00e1l\u016f, poh\u00e1dek pro d\u011bti, sportovn\u00edch p\u0159enos\u016f a po\u0159ad\u016f pro dosp\u011bl\u00e9. V z\u00e1kladn\u00ed nab\u00eddce z\u00e1kazn\u00edk z\u00edsk\u00e1 krom\u011b z\u00e1kladn\u00edch stanic (\u010cesk\u00e1 televize, NOVA, Prima, Barrandov...) tak\u00e9 pr\u00e9miov\u00e9 filmov\u00e9 stanice jako jsou FilmBox Premium, JOJ Cinema, Film Europe, CS Film, stanice pro d\u011bti. Sportovn\u00ed nad\u0161ence pot\u011b\u0161\u00ed \u010cT Sport, Arena Sport 1 a 2 nebo Nova Sport 1 a 2. Pro odreagov\u00e1n\u00ed jsou tu 4 erotick\u00e9 kan\u00e1ly. Nav\u00edc zde m\u016f\u017eete sledovat slovensk\u00e9, polsk\u00e9, anglick\u00e9, n\u011bmeck\u00e9, chorvatsk\u00e9 a dal\u0161\u00ed. V nab\u00eddce jsou TV stanice slibuj\u00edc\u00ed po\u0159\u00e1dnou porci z\u00e1bavy, vzru\u0161en\u00ed, romantiky, nap\u011bt\u00ed a informac\u00ed. Proto si v\u017edy vybere ten spr\u00e1vn\u00fd po\u0159ad pro sebe opravdu ka\u017ed\u00fd. Pro nov\u00e9 u\u017eivatele m\u00e1me d\u00e1rek a to bal\u00ed\u010dek HBO (t\u0159\u00ed stanice HBO a dv\u011b stanice Cinemax) na prvn\u00ed m\u011bs\u00edc zdarma.",
+        "downloadUrl": "https://github.com/MadeByAppLove/Windows-8.1-Appx-Archive/releases/download/Windows8/Lepsi.TV_1.0.0.0.appx",
+        "iconUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/logo/59d8881faaf45a77.png",
+        "featured": false,
+        "type": "App",
+        "category": "Video + Entertainment",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/screenshot/8488eb0038cfe944.png"
+        ],
+        "accentColor": "#0E1317",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/791336626269061150/wideLogo/9c3b8dd88b6fce68.png",
+        "architecture": "Neutral",
+        "packageFamilyName": "AppLove.LepsiTV_6qyet0kxe5eqt",
+        "size": "94,7 kB",
+        "permissions": [
+            "Internet (Client)",
+            "Internet (Client & Server)"
+        ],
+        "publishedDate": "2026-08-28",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [],
+        "copyright": "2026 Lep\u0161\u00ed.TV"
+    },
+    {
+        "id": "1261",
+        "name": "PAC-MAN Championship",
+        "publisher": "Boomin Studios",
+        "version": "1.8.0.0",
+        "description": "Enjoy everyone\u2019s favorite classic arcade game, PAC-MAN, for FREE! PAC-MAN is the retro arcade game you know and love, but bigger and better than ever before! Join millions of fans worldwide and compete in Tournaments, experience new Mazes, earn Achievements, and win bragging rights at the top of the Leaderboards! The player controls character through a maze, eating dots (also called biscuits or just dots). When all dots are eaten, player is taken to the next stage. Enjoy Pac-Man Championship for FREE!",
+        "downloadUrl": "https://github.com/andreatennis2024-hue/octostore-new-apps-2/releases/download/packages/18434BoominStudios.PAC-MANChampionship_1.8.0.0_x86__a5rw1ehnj6qfc.appx",
+        "iconUrl": "https://store-images.s-microsoft.com/image/apps.6951.13510798887576113.eb242d07-d07c-4979-ae05-dd8c83d64913.8263af2a-06e9-47cf-8ecd-8aab1e454d92",
+        "featured": false,
+        "type": "Game",
+        "category": "Action",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/7212cff0d35578dc.png",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/0ea9b743b99bfd19.png",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/8384d9644a690cf9.png",
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/screenshot/7cafa0de6a04cf7f.png"
+        ],
+        "accentColor": "#142d91",
+        "wideLogoUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1352463463326289992/wideLogo/28892b64f36017bf.png",
+        "architecture": "x86",
+        "packageFamilyName": "18434BoominStudios.PAC-MANChampionship_a5rw1ehnj6qfc",
+        "size": "6.9MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2017-10-23",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [],
+        "copyright": ""
     }
 ]
