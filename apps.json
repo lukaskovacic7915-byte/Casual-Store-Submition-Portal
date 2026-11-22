@@ -5957,5 +5957,34 @@
         "privacyPolicy": "https://pointgrab.com/privacy-policy/",
         "supportedLanguages": [],
         "copyright": "\u00a9 2014 PointGrab"
+    },
+        {
+        "name": "8Store",
+        "publisher": "8NetLive",
+        "version": "6.1 beta",
+        "description": "R.I.P TO THE GOAT 8STORE, THE REASON EHY ITS HERE IS BCS TO REMEMBER IT.",
+        "downloadUrl": "https://github.com/Win8StoreRebuilt/8Store-Project/releases/download/6.0.1/Win81StoreRevival_6.0.1.0_AnyCPU_Debug.appx",
+        "iconUrl": "https://i.ytimg.com/vi/CO00hocGMEk/maxresdefault.jpg",
+        "featured": false,
+        "type": "",
+        "category": "News + Weather",
+        "screenshots": [
+            "https://private-user-images.githubusercontent.com/253602099/563615003-f8e38e1c-c53f-4bc9-8611-241864f11a0c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTUzNjE4ODcsIm5iZiI6MTc5NTM2MTU4NywicGF0aCI6Ii8yNTM2MDIwOTkvNTYzNjE1MDAzLWY4ZTM4ZTFjLWM1M2YtNGJjOS04NjExLTI0MTg2NGYxMWEwYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyMlQxNTMzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05OWMyNmNhYzZmNzA1YTJkYzY3NDAyYmZhZGU3MmM5YTYzZDc2MzljY2RhYWMyMmYyNTcxM2VmZmZlNjhhMjliJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.UJxXTJPKv2IR_hVZVSZdsM1zvsFdQ_Vt8OG16SHlnzg"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "",
+        "packageFamilyName": "",
+        "size": "4.4 MB",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2025",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": ""
     }
 ]
