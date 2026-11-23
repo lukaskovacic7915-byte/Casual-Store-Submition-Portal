@@ -7149,7 +7149,7 @@
         "type": "App",
         "category": "Utilities",
         "screenshots": [
-            "https://www.youtube.com/watch?v=A_T27gQ6GvM"
+            "https://i.ytimg.com/vi/DOXVo273ySs/sddefault.jpg"
         ],
         "accentColor": "#ac193d",
         "wideLogoUrl": "",
@@ -7166,6 +7166,36 @@
             "English (United States)"
         ],
         "copyright": ""
+    },
+       {
+        "name": "10market",
+        "publisher": "Alpha projects",
+        "version": "",
+        "description": "A windows 10m store by Alpha Projecta (CasualStore also is an windows 10 store, casualstore is a store for windows: 8, 8.1, 10",
+        "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/10market.appx",
+        "iconUrl": "https://private-user-images.githubusercontent.com/326102972/716147426-64a6eef7-0a22-4aac-b0b7-823d1651a248.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU0NTEzMDMsIm5iZiI6MTc5NTQ1MTAwMywicGF0aCI6Ii8zMjYxMDI5NzIvNzE2MTQ3NDI2LTY0YTZlZWY3LTBhMjItNGFhYy1iMGI3LTgyM2QxNjUxYTI0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyM1QxNjIzMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmU3NmZlOTAxOWNjMjNkMDdjMzdlNDA1MGY4NjJiODRhYjI4OGE4OWE4ZmU2ZWVmNDIxYWNlNGZiM2Q5ZDY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.CDLpf2b-w6wzeIVDVwML5nTTxPJmWzSTxqEvRv6kLBc",
+        "featured": false,
+        "type": "App",
+        "category": "Utilities",
+        "screenshots": [
+            "https://private-user-images.githubusercontent.com/326102972/716147426-64a6eef7-0a22-4aac-b0b7-823d1651a248.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU0NTEzMDMsIm5iZiI6MTc5NTQ1MTAwMywicGF0aCI6Ii8zMjYxMDI5NzIvNzE2MTQ3NDI2LTY0YTZlZWY3LTBhMjItNGFhYy1iMGI3LTgyM2QxNjUxYTI0OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyM1QxNjIzMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNmU3NmZlOTAxOWNjMjNkMDdjMzdlNDA1MGY4NjJiODRhYjI4OGE4OWE4ZmU2ZWVmNDIxYWNlNGZiM2Q5ZDY4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.CDLpf2b-w6wzeIVDVwML5nTTxPJmWzSTxqEvRv6kLBc"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "neutral",
+        "packageFamilyName": "",
+        "size": "few mb",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2026",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": ""
     }
 ]
+
 
