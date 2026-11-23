@@ -6812,7 +6812,7 @@
         "publisher": "MicroSoftware Studios",
         "version": "26h2",
         "description": "A cool store revival project",
-        "downloadUrl": "https://github.com/ms-store-appx/WSRP-Store/blob/main/WSRP.WindowsStore25H2_1.2.1.25_neutral__yjbnaxqe2y7jt.appx",
+        "downloadUrl": "https://github.com/ms-store-appx/WSRP-Store/releases/download/v26H1.5.16-pre/WSRP.WindowsStore25H2_1.2.1.25_neutral__yjbnaxqe2y7jt.appx",
         "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2wUAcWNpBKxiqLb4dDxJZ3r4KLYVo6ZfpL3-yci-1g&s=10",
         "featured": true,
         "type": "App",
