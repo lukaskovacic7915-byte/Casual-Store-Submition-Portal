@@ -6842,7 +6842,7 @@
         "publisher": "ReOpenGlebsur",
         "version": "1.4 ESU",
         "description": "ReWinStore Alternative App store wtih apps from 8Store and ReWork!",
-        "downloadUrl": "https://raw.githubusercontent.com/OpenGlebsur/openglebsur.github.io/refs/heads/main/WinStore_1.0.0.8_AnyCPU.appx",
+        "downloadUrl": "https://files.catbox.moe/mvhij1.appx",
         "iconUrl": "https://files.catbox.moe/6014w0.png",
         "featured": false,
         "type": "App",
@@ -7137,5 +7137,35 @@
             "English (United States)"
         ],
         "copyright": "\u00a9 2026 HERE Apps LLC"
+    },
+        {
+        "name": "8market",
+        "publisher": "Alpha Projects",
+        "version": "4.2.0.0",
+        "description": "A store revival project made by Alpha Projects",
+        "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/8Market_4.2.0.0_AnyCPU.appx",
+        "iconUrl": "https://media.discordapp.net/attachments/1527631969465270312/1548651117766901870/1548642669570302012.png?ex=6b056fbf&is=6b041e3f&hm=128bbcbc8d3b3dc0d37a891bdfe5a0bbb28022dda0c972a24eaac4172c792a20&format=webp&quality=lossless",
+        "featured": false,
+        "type": "App",
+        "category": "Utilities",
+        "screenshots": [
+            "https://www.youtube.com/watch?v=A_T27gQ6GvM"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "neutral",
+        "packageFamilyName": "",
+        "size": "4.4 MB",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2026",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": ""
     }
 ]
+
