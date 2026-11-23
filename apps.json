@@ -6835,5 +6835,307 @@
             "English (United States)"
         ],
         "copyright": "MicroSoftware Studios"
-}
+},
+       {
+        "id": "677",
+        "name": "ReWinStore",
+        "publisher": "ReOpenGlebsur",
+        "version": "1.4 ESU",
+        "description": "ReWinStore Alternative App store wtih apps from 8Store and ReWork!",
+        "downloadUrl": "https://raw.githubusercontent.com/OpenGlebsur/openglebsur.github.io/refs/heads/main/WinStore_1.0.0.8_AnyCPU.appx",
+        "iconUrl": "https://files.catbox.moe/6014w0.png",
+        "featured": false,
+        "type": "App",
+        "category": "Shopping",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=ReWinStore+Screenshot+5"
+        ],
+        "accentColor": "#6B69D6",
+        "wideLogoUrl": "https://github.com/OpenGlebsur/reopen-metroUI-apps-wide-tiles/blob/main/ReWindowsStore%20ESU%20wide.png?raw=true",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.ReWinStore_8wekyb3d8bbwe",
+        "size": "0.0 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 ReOpenGlebsur"
+    },
+        {
+        "id": "678",
+        "name": "Notepad X",
+        "publisher": "Axilesoft",
+        "version": "1.1.1.11",
+        "description": "Welcome to Notepad X version 1.1.1.11 provided to you by Axilesoft!",
+        "downloadUrl": "https://matter1809.github.io/41038Axilesoft.NotepadX_1.1.1.11_x86__wxjjre7dryqb6.appx",
+        "iconUrl": "https://i.ibb.co/gLXcFTTj/Untitled.png",
+        "featured": false,
+        "type": "App",
+        "category": "Utilities",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Notepad X+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Notepad X+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Notepad X+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Notepad X+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Notepad X+Screenshot+5"
+        ],
+        "accentColor": "#770088",
+        "wideLogoUrl": "https://i.ibb.co/7N12BbV8/wideimage.png",
+        "architecture": "x86",
+        "packageFamilyName": "41038Axilesoft.NotepadX",
+        "size": "4.1 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Axilesoft"
+    },
+    {
+        "id": "679",
+        "name": "Netflix",
+        "publisher": "Netflix, Inc.",
+        "version": "2.22.0.39",
+        "description": "THE APP DOESN'T WORK\r\nNetflix is the world\u2019s leading subscription service for watching TV episodes and movies.\r\n\r\nGet the free app as a part of your Netflix membership and you can instantly watch thousands of TV episodes & movies.\r\n\r\nIf you are not a Netflix member sign up for Netflix and start enjoying immediately with our one-month free trial.\r\n\r\nHow does Netflix work?\r\n- Netflix membership gives you access to unlimited TV shows and movies for one low monthly price.\r\n- With the Netflix app you can instantly watch as many TV episodes & movies as you want, as often as you want, anytime you want.\r\n- You can Browse a growing selection of thousands of titles, and new episodes that are added regularly.\r\n- Search for titles and watch immediately on your phone or on an ever expanding list of supported devices.\r\n- Rate your favorite shows and movies and tell us what you like so Netflix can help suggest the best titles for you.\r\n- Start watching on one device, and resume watching on another. Check out netflix.com for all the TVs, game consoles, tablets, phones, Blu-ray players and set top boxes on which you can watch Netflix.\r\n\r\nBy clicking INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Netflix/4DF9E0F8.Netflix_2.22.0.39_x86__mcm4njqhnhss8.appx",
+        "iconUrl": "https://i.ibb.co/cKwJgjBS/image.png",
+        "featured": false,
+        "type": "App",
+        "category": "Video + Entertainment",
+        "screenshots": [
+            "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/netflix1.png",
+            "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/netflix2.png",
+            "https://raw.githubusercontent.com/msnsports-31000/metro-app-screenshots/refs/heads/main/netflix3.png"
+        ],
+        "accentColor": "#000000",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/netflixwide.png",
+        "architecture": "x86",
+        "packageFamilyName": "4DF9E0F8.Netflix",
+        "size": "5.6 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Netflix, Inc."
+    },
+    {
+        "id": "681",
+        "name": "Hulu Plus",
+        "publisher": "Hulu, LLC",
+        "version": "2016.214.604.5172",
+        "description": "THE APP DOESN'T WORK\r\nGet Hulu and stream everything you love. We\u2019re talking thousands of shows and movies featuring current and classic TV, laugh-your-face-off TV, cry-your-eyes-out TV, and every other kind of TV. Get access to Hulu Originals you can\u2019t stream anywhere else - like Dopesick, Solar Opposites, and Only Murders in the Building; FX on Hulu, the streaming home of FX; tons of movies like Palm Springs; and so much more. With your existing Hulu + Live TV subscription*, you get 75+ channels for live sports, news, can't-miss events, and all the stuff you need to watch right when it happens. Everything you love is on Hulu, and it\u2019s all waiting for you. Hulu Our ad-supported plan lets you browse our huge streaming library. Stream tons of shows you love or haven\u2019t yet discovered. Discover some of today's most popular shows like Family Guy, Atlanta, Dave, Bob's Burgers, It's Always Sunny in Philadelphia and much more. Get exclusive Originals from Emmy\u00ae winner The Handmaid\u2019s Tale to The Dropout, or The Kardashians. Hulu (No Ads) This plan gives you everything you get with the Hulu plan in an ad-free* experience. *There are a few shows in our streaming library that are not included in Hulu (No Ads) due to streaming rights. Episodes of those shows will stream uninterrupted \u2014 there will just be a quick ad break before and after each video. *Hulu + Live TV Get 75+ top channels to watch live sports, news, can't-miss events, and more. Plus, get unlimited access to the entire Hulu streaming library through our ad-supported plan, which is part of Hulu + Live TV. No hidden fees, equipment rentals, or installation appointments. Cancel anytime. Regional restrictions, blackouts and additional terms apply. Download the Hulu app now and start watching. Your Hulu subscription fee will be charged as a recurring transaction starting at the end of your free trial (unless you cancel during the free trial). Payment will automatically renew unless you cancel your account. You can manage your subscription or cancel anytime by accessing your Hulu account via. Hulu is available to US customers only. Terms of Use: http://www.hulu.com/terms Privacy Policy: http://www.hulu.com/privacy Your California Privacy Rights: https://www.hulu.com/ca-privacy-rights Do Not Sell My Personal Information: https://www.hulu.com/do-not-sell-my-info This app features third party software, enabling third parties to calculate measurement statistics (e.g., Nielsen\u2019s TV Ratings). We may work with mobile advertising companies to help deliver online and in-app advertisements tailored to your interests based on your activities on our website and apps and on other, unaffiliated website and apps. To learn more, visit www.aboutads.info. To opt-out of online interest-based advertising, visit www.aboutads.info/choices. To opt-out of cross-app advertising, download the App Choices app at www.aboutads.info/appchoices. Hulu is committed to complying with the DAA\u2019s Self-Regulatory Principles for Online Behavioral Advertising and the DAA\u2019s Application of Self-Regulatory Principles for the Mobile Environment.",
+        "downloadUrl": "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1441544481454297152/appx/b832a3e756c4142d.appxbundle",
+        "iconUrl": "https://i.ibb.co/60xqXC1y/huluplus.png",
+        "featured": false,
+        "type": "App",
+        "category": "Video + Entertainment",
+        "screenshots": [
+            "https://pub-5767282c622c44f8815bd9c7527016f7.r2.dev/submissions/1441544481454297152/screenshot/e503e0a3b2e3ad0d.png"
+        ],
+        "accentColor": "#66AA33",
+        "wideLogoUrl": "https://i.ibb.co/gMQXRdWR/Wide-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "HuluLLC.HuluPlus",
+        "size": "9.2 MB",
+        "permissions": [
+            "Internet (Client)",
+            "Internet (Client & Server)",
+            "Private Networks (Client & Server)"
+        ],
+        "publishedDate": "2016-02-14",
+        "eula": "",
+        "privacyPolicy": "http://www.hulu.com/privacy",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2016 Hulu, LLC"
+    },
+    {
+        "id": "682",
+        "name": "Newegg",
+        "publisher": "NewEgg INC",
+        "version": "1.5.1.0",
+        "description": "THE APP DOESN'T WORK\r\nThe Newegg application allows Windows 8 users to search, shop, read reviews and make purchases on Newegg.com. Once you know, you Newegg?.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Newegg/1.5.1.0/neutral/E7308103.Newegg_1.5.1.0_neutral__xvb1bqsmfqjap.Appx",
+        "iconUrl": "https://i.ibb.co/sdvHNnkR/newegg.png",
+        "featured": false,
+        "type": "App",
+        "category": "Shopping",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Newegg+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Newegg+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Newegg+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Newegg+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Newegg+Screenshot+5"
+        ],
+        "accentColor": "#B8AA9D",
+        "wideLogoUrl": "https://i.ibb.co/mCCVJ7hJ/Wide-Logo-scale-100.png",
+        "architecture": "neutral",
+        "packageFamilyName": "E7308103.Newegg",
+        "size": "3.0 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 NewEgg INC"
+    },
+    {
+        "id": "683",
+        "name": "Deezer for Windows RT",
+        "publisher": "Deezer SA",
+        "version": "1.3.6.0",
+        "description": "THE APP DOESN'T WORK\r\nEndless music to discover, love and take with you everywhere you go. Download the app and get an instant free upgrade to Premium+ for 15 days! Deezer is: - 35 million tracks, with all your favourite artists and songs - Personalised music recommendations prepared by our fabulous Deezer Editors - Unlimited mixes with your favourite artists and genres - Playlists to suit your tastes - Your library, built up over time with all your discoveries Even better, it's free! When you subscribe to Premium+, you get all the following extras: - No ads, no interruptions - Access your music even when you're offline by downloading albums and playlists to your device - Enjoy your music in High Quality audio Follow Deezer! Facebook : http://www.facebook.com/deezer Twitter : https://twitter.com/deezer",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Deezer/1.3.6.0/arm/Deezer.Deezer_1.3.6.0_arm__q7m17pa7q8kj0.Appx",
+        "iconUrl": "https://store-images.microsoft.com/image/apps.21592.9007199266242716.19c21b8d-f804-4d02-819f-d464cc23f96c.a8a8c41e-aa33-4e64-b7be-3ab0b1a0162a",
+        "featured": false,
+        "type": "App",
+        "category": "Music + Audio",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Deezer for Windows RT+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Deezer for Windows RT+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Deezer for Windows RT+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Deezer for Windows RT+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Deezer for Windows RT+Screenshot+5"
+        ],
+        "accentColor": "#343338",
+        "wideLogoUrl": "https://i.ibb.co/6QR5X8t/Windows-Tile-310x150-Abstract-scale-100.png",
+        "architecture": "arm",
+        "packageFamilyName": "Deezer.Deezer",
+        "size": "3.9 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Deezer SA"
+    },
+    {
+        "id": "684",
+        "name": "McAfee Central for Lenovo",
+        "publisher": "McAfee Incorporated",
+        "version": "2.0.0.1",
+        "description": "McAfee Central helps you be protected from threats on Internet anywhere - your PC, tablet and phone or any device.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/McAfee%20Security%20Advisor/McAfeeInc.06.McAfeeSecurityAdvisorforLenovo_2.0.0.1_x64__bq6yxensn79aw.appx",
+        "iconUrl": "https://store-images.microsoft.com/image/apps.11992.9007199266245632.c8f0bbcf-5e5e-4f84-88dd-f7199b62180f.119af06a-27de-4722-9ea1-e0009878378c",
+        "featured": false,
+        "type": "App",
+        "category": "Security",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=McAfee Central for Lenovo+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=McAfee Central for Lenovo+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=McAfee Central for Lenovo+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=McAfee Central for Lenovo+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=McAfee Central for Lenovo+Screenshot+5"
+        ],
+        "accentColor": "#AE132E",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/mcafeecentralwide.png",
+        "architecture": "x64",
+        "packageFamilyName": "McAfeeInc.06.McAfeeSecurityAdvisorforLenovo",
+        "size": "9.4 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 McAfee Incorporated"
+    },
+    {
+        "id": "685",
+        "name": "Microsoft SkyDrive (8400)",
+        "publisher": "Microsoft Corporation",
+        "version": "16.4.3364.511",
+        "description": "APP DOESN'T WORK SkyDrive app for Windows 8 allows to sync your cloud storage easily, also allowing to automatically sync all your photos and other files.",
+        "category": "Utilities",
+        "type": "App",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Windows%208%20Release%20Preview%20APPX/Apps/SkyDrive/16.4.3364.511/x64/microsoft.microsoftskydrive_16.4.3364.511_x64__8wekyb3d8bbwe.appx",
+        "iconUrl": "https://i.ibb.co/mrvNwDY0/skydrive-8400.png",
+        "featured": false,
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Microsoft SkyDrive (8400)+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Microsoft SkyDrive (8400)+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Microsoft SkyDrive (8400)+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Microsoft SkyDrive (8400)+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Microsoft SkyDrive (8400)+Screenshot+5"
+        ],
+        "accentColor": "#0078D7",
+        "wideLogoUrl": "https://i.ibb.co/BHKd2xWw/widelogo.png",
+        "architecture": "x64",
+        "packageFamilyName": "microsoft.microsoftskydrive",
+        "size": "3.2 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Microsoft Corporation"
+    },
+    {
+        "id": "686",
+        "name": "HERE Maps",
+        "publisher": "HERE Apps LLC",
+        "version": "4.7.0.1454",
+        "description": "HERE Maps is a maps app for Windows 8.1, featuring top places, eat and drink, going out, shopping, sights and museums and accomadations.",
+        "category": "Travel + Navigation",
+        "type": "App",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/HERE%20Maps/4.7.0.1454/x86/F7F42371.HEREMaps_4.7.0.1454_x86__1zb3m6ft70dey.Appx",
+        "iconUrl": "https://i.ibb.co/5XKmPYwH/heremaps.png",
+        "featured": false,
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=HERE Maps+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=HERE Maps+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=HERE Maps+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=HERE Maps+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=HERE Maps+Screenshot+5"
+        ],
+        "accentColor": "#010b1e",
+        "wideLogoUrl": "https://i.ibb.co/Tx3MfMVz/Wide-Logo.png",
+        "architecture": "x86",
+        "packageFamilyName": "F7F42371.HEREMaps",
+        "size": "49.1 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 HERE Apps LLC"
+    }
 ]
