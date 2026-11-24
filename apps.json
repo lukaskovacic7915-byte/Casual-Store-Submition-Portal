@@ -7565,8 +7565,7 @@
         "packageFamilyName": "",
         "size": "few mb",
         "permissions": [
-            "Access Your Internet Connection",
-            "Acsess your Pictures folder"
+            "Access Your Internet Connection and Pictures folder"
         ],
         "publishedDate": "2026",
         "eula": "",
