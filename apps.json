@@ -7224,9 +7224,34 @@
             "English (United States)"
         ],
         "copyright": ""
+    },
+        {
+        "name": "Rabbids Big Bang",
+        "publisher": "Ubisoft",
+        "version": "",
+        "description": "Rabbids Big Bang (French: The Lapins Crétins Big Bang) is a party video game which was developed by Ubisoft Milan in collaboration with Ubisoft Paris and published by Ubisoft on October 17, 2013 in Europe, North America and Japan for iOS and Android. This is a spin-off game of the Rabbids games franchise.",
+        "downloadUrl": "https://archive.org/download/discontinued-ubisoft-app-rabbids-big-bang/Discontinued%20Ubisoft%20App%20Rabbids%20Big%20Bang.rar/UbisoftEntertainment.RabbidsBigBang_2.0.0.1_x86__dbgk1hhpxymar.Appx",
+        "iconUrl": "https://archive.org/download/discontinued-ubisoft-app-rabbids-big-bang/apps.56265.9007199266251464.5de5e64c-09ea-4e3b-b4c6-a0f848772104.png",
+        "featured": false,
+        "type": "App",
+        "category": "Games",
+        "screenshots": [
+            "https://static.wikia.nocookie.net/ravingrabbids/images/1/1d/Rabbids-1.jpg/revision/latest/scale-to-width-down/250?cb=20190417202741"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "x86",
+        "packageFamilyName": "",
+        "size": "few mb",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2012",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "Ubisoft"
     }
 ]
-
-
-
-
