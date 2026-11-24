@@ -7246,12 +7246,99 @@
         "permissions": [
             "Access Your Internet Connection"
         ],
-        "publishedDate": "2012",
+        "publishedDate": "2013",
         "eula": "",
         "privacyPolicy": "",
         "supportedLanguages": [
             "English (United States)"
         ],
         "copyright": "Ubisoft"
+    },
+        {
+        "name": "Mythic Wonders: The Philosopher's Stone",
+        "publisher": "Artifex Mundi",
+        "version": "",
+        "description": "Enter the mythical portal and search for your missing uncle in the new hidden object adventure game!",
+        "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/ArtifexMundi.MythicWondersThePhilosophersStoneFull_2.0.0.3_x86__xmkq9zz36w32m.Appx",
+        "iconUrl": "https://community.fastly.steamstatic.com/economy/image/IzMF03bk9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdA3g5gMEPvUZZEfSMJ6dESN8p_2SVTY7V2N0KzHcEmChCIzb02ClIaOhtfsLLwQL-_OfVHXCvPm-TfHCPTgkxTrtdPGHeqDCn7eiQRD_BQbsrEQ4BfKMNpmRXfZfeKUBiltNeuVqxmkV6G0spKsATdA7pzCIQZO1xyXRCJJtamCHwL8XQjF8xO05rUrnuBb2Ta4Dxjm96CgwhEqJ1d4T-Cg",
+        "featured": false,
+        "type": "App",
+        "category": "Puzzle",
+        "screenshots": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03NqQDHV9mF5e3bn0MegVW31m1y2trz3NkuAWe9gJhsUEYp-pJ2yM5rcE&s=10"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "x86",
+        "packageFamilyName": "",
+        "size": "few hunderd mb",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2016",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": ""
+    },
+        {
+        "name": "Reckless Racing Ultimate",
+        "publisher": "Microsoft",
+        "version": "",
+        "description": "Reckless Racing Ultimate is the Windows 8 release of the top-down off-road racing series, developed by Pixelbite and published by Microsoft Studios on September 26, 2012",
+        "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/Microsoft.Studios.RecklessRacingUltimate_2013.1211.1602.2333_neutral_._8wekyb3d8bbwe.AppxBundle",
+        "iconUrl": "https://store-images.microsoft.com/image/apps.64995.9007199266248172.90736933-474d-4ec3-9aed-cf83bb315896.29f30bf8-83be-456a-9dbf-ba3f238e04c6",
+        "featured": false,
+        "type": "App",
+        "category": "Games",
+        "screenshots": [
+            "https://store-images.microsoft.com/image/apps.30027.9007199266248172.0d6e8638-1bfc-45d0-85ab-5824c250a35d.77b5209f-a093-4c7e-8080-80b4e4de1b5c"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "neutral",
+        "packageFamilyName": "",
+        "size": "few hunderd mb",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2012",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "Microsoft"
+    },
+        {
+        "name": "Monsters Love Candy",
+        "publisher": "Microsoft and Other Ocean Interactive",
+        "version": "5.2.0.0",
+        "description": "Monsters Love Candy for Windows 8 is a discontinued match-3 puzzle game published by Microsoft and developed by Other Ocean Interactive. Because the original Windows Store for Windows 8 is shut down, it is no longer available through official store channels",
+        "downloadUrl": "https://appxbox.dankassassin368.com/download/1l04zAFFGv1vqYMcA0Sm74DDqJfGYEOo1/Microsoft.MonstersLoveCandy_5.2.0.0_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMyYqQ97lTnG_hB47HZfu9DgkgG8CCynh95TailW31UMaCMaXgh_lJPYtg&s=10",
+        "featured": false,
+        "type": "App",
+        "category": "Puzzle",
+        "screenshots": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfBqhuZXtMv1KDnwpfXzVb1QtXOiNGtCafep9eyZxJA&s=10"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "",
+        "packageFamilyName": "",
+        "size": "few mb",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2012",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "Microsoft"
     }
 ]
