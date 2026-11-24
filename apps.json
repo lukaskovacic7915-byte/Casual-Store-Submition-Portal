@@ -7340,5 +7340,210 @@
             "English (United States)"
         ],
         "copyright": "Microsoft"
+    },
+       {
+        "id": "863",
+        "name": "Farming Simulator 16",
+        "publisher": "GIANTS Software",
+        "version": "1.1.1.2",
+        "description": "Manage your own farm and drive massive machines in an open world!  Farming Simulator 16 allows you to manage your own realistic farm in extraordinary detail. Plant, grow, harvest, and sell five different crops, raise cows and sheep, and sell timber at your own pace. Buy new fields to expand your farm land. Take direct control of harvesters and tractors, or hire AI helps and manage your growing farm from the full screen management map.  As the newest in the series of Farming Simulator games, this game has the best of agriculture simulation. The game features massive tractors and other machines from over 20 brands of agricultural manufacturers, including New Holland, Case IH, Ponsse, Lamborghini, Horsch, Krone, Amazone, MAN and more.",
+        "category": "Action",
+        "type": "Game",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Farming%20Simulator%2016/1.1.2.8/x86/GIANTSSoftware.FarmingSimulator16_1.1.2.8_x86__fa8jxm5fj0esw.appx",
+        "iconUrl": "https://i.ibb.co/7dML8Ykd/App-Icon150-scale-100.png",
+        "featured": false,
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 16+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 16+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 16+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 16+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 16+Screenshot+5"
+        ],
+        "accentColor": "#464646",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/fs16wide.png",
+        "architecture": "x86",
+        "packageFamilyName": "GIANTSSoftware.FarmingSimulator16",
+        "size": "125.5 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 GIANTS Software"
+    },
+    {
+        "id": "864",
+        "name": "Farming Simulator 18",
+        "publisher": "GIANTS Software",
+        "version": "2018.706.816.0",
+        "description": "Become a modern farmer in Farming Simulator 18! Immerse yourself in a huge open world and harvest many types of crops, take care of your livestock - cows, sheep, and pigs - take part in forestry, and sell your products on a dynamic market to expand your farm! You have access to a huge selection of over 50 farming vehicles and machines, faithfully recreated from over 30 of the biggest names in the industry, including AGCO???s most respected brands: Challenger, Fendt, Massey Ferguson and Valtra. Drive and use brand new equipment and harvest sugar beet, potatoes, wheat, canola, corn, and for the first time sunflowers. With a deep and powerful simulation experience, a vast open world and a wide fleet of vehicles including brand new machines, Farming Simulator 18 invites you aboard the most complete handheld farming simulation ever created!",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Farming%20Simulator%2018/1.1.0.1/x86/GIANTSSoftware.FarmingSimulator18_1.1.0.1_x86__fa8jxm5fj0esw.appx",
+        "iconUrl": "https://i.ibb.co/svj6wCm4/Square150x150-Logo-scale-180.png",
+        "featured": false,
+        "type": "Game",
+        "category": "Action",
+        "Screenshots": [],
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 18+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 18+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 18+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 18+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Farming Simulator 18+Screenshot+5"
+        ],
+        "accentColor": "#464646",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/fs18wide.png",
+        "architecture": "x86",
+        "packageFamilyName": "GIANTSSoftware.FarmingSimulator18",
+        "size": "175.6 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 GIANTS Software"
+    },
+    {
+        "id": "866",
+        "name": "My Talking Angela",
+        "publisher": "OutFit7",
+        "version": "2.6.0.0",
+        "description": "Adopt glamorous Talking Angela and make her your very own superstar. Explore Talking Angela??s world and customise her fashion, hairstyle, makeup and home - all while playing addictively cute mini games.",
+        "category": "Family + Kids",
+        "type": "Game",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/My%20Talking%20Angela/2.6.0.0/neutral/OutFit7Limited.TalkingAngela_2.6.0.0_neutral_~_rmf98d2bjqpyp.appxbundle",
+        "iconUrl": "https://i.ibb.co/8DfWycZ7/Square150x150-default-scale-100.png",
+        "featured": false,
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=My Talking Angela+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=My Talking Angela+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=My Talking Angela+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=My Talking Angela+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=My Talking Angela+Screenshot+5"
+        ],
+        "accentColor": "#6B69D6",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/mytalkingangelawide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Publisher.MyTalkingAngela_8wekyb3d8bbwe",
+        "size": "82.7 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 OutFit7"
+    },
+    {
+        "id": "867",
+        "name": "Qobuz for Windows RT",
+        "publisher": "Qobuz",
+        "version": "1.2.1.31",
+        "description": "Music is back.  Qobuz.com is an online music service: subscriptions for unlimited streaming, high-quality downloads, music magazine. Its comprehensive catalogue covers all music genres, including all the major labels and a great many independent labels.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Qobuz/1.2.1.31/arm/Qobuz.QobuzDesktop_1.2.1.31_arm__rr4cv40nzqh7p.appx",
+        "iconUrl": "https://i.ibb.co/Mx3JLTxh/Logo-scale-180.png",
+        "featured": false,
+        "type": "App",
+        "category": "Music + Audio",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Qobuz for Windows RT+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Qobuz for Windows RT+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Qobuz for Windows RT+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Qobuz for Windows RT+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Qobuz for Windows RT+Screenshot+5"
+        ],
+        "accentColor": "#68AFC5",
+        "wideLogoUrl": "https://i.ibb.co/pBzfh4wg/Wide-Logo-scale-100.png",
+        "architecture": "arm",
+        "packageFamilyName": "Qobuz.QobuzDesktop",
+        "size": "5.4 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Qobuz"
+    },
+    {
+        "id": "869",
+        "name": "Qobuz",
+        "publisher": "Qobuz",
+        "version": "1.2.1.31",
+        "description": "Music is back. Qobuz.com is an online music service: subscriptions for unlimited streaming, high-quality downloads, music magazine. Its comprehensive catalogue covers all music genres, including all the major labels and a great many independent labels.",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/Qobuz/1.2.1.31/x86/Qobuz.QobuzDesktop_1.2.1.31_x86__rr4cv40nzqh7p.appx",
+        "iconUrl": "https://i.ibb.co/Mx3JLTxh/Logo-scale-180.png",
+        "featured": false,
+        "type": "App",
+        "category": "Music + Audio",
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=Qobuz+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=Qobuz+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=Qobuz+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=Qobuz+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=Qobuz+Screenshot+5"
+        ],
+        "accentColor": "#68AFC5",
+        "wideLogoUrl": "https://i.ibb.co/pBzfh4wg/Wide-Logo-scale-100.png",
+        "architecture": "x86",
+        "packageFamilyName": "Qobuz.QobuzDesktop",
+        "size": "5.3 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Qobuz"
+    },
+        {
+        "id": "861",
+        "name": "MSN Gaming Zone by Coca-Cola zero",
+        "publisher": "Coca-Cola Services France",
+        "version": "1.1.1.30",
+        "description": "Retrouvez tout le contenu de la Gaming Zone MSN par Coca-Cola zero sur votre tablette ou PC Windows 8. Actualit?s, vid?os, quizz, battle, dossier photos et bien sur le JT de la GamingZone n??attendent plus que vous. Connectez-vous via Facebook afin de retrouver toute l??activit? de vos amis et partager le fun avec eux !",
+        "category": "Other",
+        "type": "App",
+        "downloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.0%20APPX%20Files/Apps/MSN%20Gaming%20Zone%20by%20Coca-Cola%20zero/1.1.1.30/neutral/Coca-ColaFrance.MSNGamingZonebyCoca-Colazero_1.1.1.30_neutral__8ae2dr87d3sr2.appx",
+        "iconUrl": "https://i.ibb.co/zT54dS7q/icon-150.png",
+        "featured": false,
+        "screenshots": [
+            "https://via.placeholder.com/800x450.png?text=MSN Gaming Zone by Coca-Cola zero+Screenshot+1",
+            "https://via.placeholder.com/800x450.png?text=MSN Gaming Zone by Coca-Cola zero+Screenshot+2",
+            "https://via.placeholder.com/800x450.png?text=MSN Gaming Zone by Coca-Cola zero+Screenshot+3",
+            "https://via.placeholder.com/800x450.png?text=MSN Gaming Zone by Coca-Cola zero+Screenshot+4",
+            "https://via.placeholder.com/800x450.png?text=MSN Gaming Zone by Coca-Cola zero+Screenshot+5"
+        ],
+        "accentColor": "#000000",
+        "wideLogoUrl": "https://raw.githubusercontent.com/msnsports-31000/stuff/refs/heads/main/wide%20images/msngamingzonebycoca-colazerowide.png",
+        "architecture": "neutral",
+        "packageFamilyName": "Coca-ColaFrance.MSNGamingZonebyCoca-Colazero",
+        "size": "4.8 MB",
+        "permissions": [
+            "Internet (Client)"
+        ],
+        "publishedDate": "2026-08-12",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "\u00a9 2026 Coca-Cola Services France"
     }
 ]
