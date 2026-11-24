@@ -7552,12 +7552,12 @@
         "version": "8.0 (Beta)",
         "description": "An store reveval project (Wow, the community is creative :D)",
         "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/TetProjects.Armenelia80Beta_0.0.0.4Beta2.1_b6kkk05ae6j0p.appx",
-        "iconUrl": "https://private-user-images.githubusercontent.com/326102972/717530538-49e31c2a-cfe9-4288-83c8-b04bd85faf04.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU1MzU5NTIsIm5iZiI6MTc5NTUzNTY1MiwicGF0aCI6Ii8zMjYxMDI5NzIvNzE3NTMwNTM4LTQ5ZTMxYzJhLWNmZTktNDI4OC04M2M4LWIwNGJkODVmYWYwNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyNFQxNTU0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMDQyMGYxYjE0MzVhNDczN2E1ZTM2Y2EwNjZjOTkxNzZhNTQ3ZTU0YTE5ODkyNmViNDc2MWFkNTJlMzA0ODU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.d2RJLWKLsRuvWh1y4DaxpN6b52mIXWM_NvOIMagkIeM",
+        "iconUrl": "https://archive.org/download/snimka-zaslona-2026-11-24-164404/armelia.png",
         "featured": true,
         "type": "App",
         "category": "Utilities",
         "screenshots": [
-            "https://private-user-images.githubusercontent.com/326102972/717532814-73399708-3b41-4ff1-bad1-c27eb355fbaf.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTU1MzU5NTIsIm5iZiI6MTc5NTUzNTY1MiwicGF0aCI6Ii8zMjYxMDI5NzIvNzE3NTMyODE0LTczMzk5NzA4LTNiNDEtNGZmMS1iYWQxLWMyN2ViMzU1ZmJhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTEyNFQxNTU0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOTdlN2Q4YzYwYTFhNmFkMTA0NGE2MjQ5NTIwNjFlYjYxMmQ2NTljMjJhYjQwNGI2YjFiYjIwMDAyZTRlZTdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.QPInpXkzCHkmIHyssQmSVe0Vm-9VYEpEpIir4JGY0BM"
+            "https://archive.org/download/snimka-zaslona-2026-11-24-164404/Snimka%20zaslona%202026-11-24%20164404.png"
         ],
         "accentColor": "#ac193d",
         "wideLogoUrl": "",
