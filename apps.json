@@ -7574,5 +7574,34 @@
             "English (United States)"
         ],
         "copyright": ""
+    },
+    {
+        "name": "Cold Alley",
+        "publisher": "Microsoft",
+        "version": "3.0.0.1",
+        "description": "Cold Alley is an aerial air combat simulator game released on December 27, 2013, for Windows 8 and Windows RT devices, published by Xbox Game Studios and developed by Revo Solutions Games.",
+        "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/Microsoft.ColdAlley_3.0.0.1_x86__8wekyb3d8bbwe.Appx",
+        "iconUrl": "https://store-images.microsoft.com/image/apps.40727.9007199266252658.9cb0eb9a-c97b-4dcf-961a-bfd18e1df456.f1be4f99-c0c4-48fa-aa43-7e24c69aeaf6",
+        "featured": false,
+        "type": "App",
+        "category": "Strategy",
+        "screenshots": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQNJf5VofjR1KwUBnQV3dhg_783M_QUW67nVaJLp-eQ&s=10"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "x86",
+        "packageFamilyName": "",
+        "size": "almost a GB",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2012",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "Microsoft"
     }
 ]
