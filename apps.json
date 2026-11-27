@@ -8088,5 +8088,34 @@
             "English (United States)"
         ],
         "copyright": ""
+    },
+        {
+        "name": "Microsoft Jigsaw",
+        "publisher": "Microsoft",
+        "version": "",
+        "description": "Piece together the FUN in Microsoft Jigsaw! Discover hundreds of puzzles across three (3) winning game modes: Classic, Jigsaw Jam, & Daily Challenges. ",
+        "downloadUrl": "https://github.com/lukaskovacic7915-byte/Casual-Store-Submition-Portal/releases/download/Apps/Microsoft.MicrosoftJigsaw_1.7.1808.2102_x86__8wekyb3d8bbwe.appx",
+        "iconUrl": "https://store-images.s-microsoft.com/image/apps.27512.9007199266251897.19884f5d-3556-4032-a517-65068fb453e2.0636b1e6-85bb-4d0e-9147-d4f76748d642",
+        "featured": false,
+        "type": "App",
+        "category": "LITERALLY PUZZLE!",
+        "screenshots": [
+            "https://store-images.s-microsoft.com/image/apps.23010.9007199266251897.84f424ab-e191-4802-8c12-70b14f70cb75.9134148d-4665-4cfb-94a9-f1b9e6af8834?h=253"
+        ],
+        "accentColor": "#ac193d",
+        "wideLogoUrl": "",
+        "architecture": "x86",
+        "packageFamilyName": "",
+        "size": "few mb",
+        "permissions": [
+            "Access Your Internet Connection"
+        ],
+        "publishedDate": "2018",
+        "eula": "",
+        "privacyPolicy": "",
+        "supportedLanguages": [
+            "English (United States)"
+        ],
+        "copyright": "Microsoft"
     }
 ]
